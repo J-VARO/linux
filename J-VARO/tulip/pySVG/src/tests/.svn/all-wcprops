@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/cpr_metabo/!svn/ver/112/elo_debut/tulip/pySVG/src/tests
+END
+testClipPath.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/cpr_metabo/!svn/ver/112/elo_debut/tulip/pySVG/src/tests/testClipPath.py
+END
+pySVGLogo.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/cpr_metabo/!svn/ver/112/elo_debut/tulip/pySVG/src/tests/pySVGLogo.py
+END
+testSpiral.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/cpr_metabo/!svn/ver/112/elo_debut/tulip/pySVG/src/tests/testSpiral.py
+END
+testParser.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/cpr_metabo/!svn/ver/112/elo_debut/tulip/pySVG/src/tests/testParser.py
+END
+testturtle.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/cpr_metabo/!svn/ver/112/elo_debut/tulip/pySVG/src/tests/testturtle.py
+END
+test(2).py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/cpr_metabo/!svn/ver/112/elo_debut/tulip/pySVG/src/tests/test(2).py
+END
+testFilter.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/cpr_metabo/!svn/ver/112/elo_debut/tulip/pySVG/src/tests/testFilter.py
+END
+pySVGTutorial.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/cpr_metabo/!svn/ver/112/elo_debut/tulip/pySVG/src/tests/pySVGTutorial.py
+END
+testtransforms.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/cpr_metabo/!svn/ver/112/elo_debut/tulip/pySVG/src/tests/testtransforms.py
+END
+testDefaultpySVGScreen.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cpr_metabo/!svn/ver/112/elo_debut/tulip/pySVG/src/tests/testDefaultpySVGScreen.py
+END
+testIterations.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/cpr_metabo/!svn/ver/112/elo_debut/tulip/pySVG/src/tests/testIterations.py
+END

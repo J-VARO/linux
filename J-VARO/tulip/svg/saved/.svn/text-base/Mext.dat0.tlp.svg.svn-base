@@ -1,0 +1,652 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" height="1115.0" width="1116.0" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink"  >
+<rect style="stroke-width:0; fill:none;pointer-events:fill; " height="1115.0" width="1116.0" y="0" x="0" id="glasspane"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="409.0" target="VSuc_up" source="Suc_in" x2="1016.0" y1="158.0" x1="311.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="478.0" target="Suc" source="VSuc_up" x2="548.0" y1="409.0" x1="1016.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="155.0" target="VGln_up" source="Gln_in" x2="165.0" y1="487.0" x1="933.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="1005.0" target="Gln" source="VGln_up" x2="417.0" y1="155.0" x1="165.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="131.0" target="Vpgi" source="G6P" x2="305.0" y1="593.0" x1="341.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="175.0" target="F6P" source="Vpgi" x2="551.0" y1="131.0" x1="305.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="124.0" target="Vfk" source="Fru" x2="286.0" y1="789.0" x1="386.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="124.0" target="Vfk" source="ATP" x2="286.0" y1="815.0" x1="436.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="175.0" target="F6P" source="Vfk" x2="551.0" y1="124.0" x1="286.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="646.0" target="ADP" source="Vfk" x2="890.0" y1="124.0" x1="286.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="859.0" target="Vgk" source="Glc" x2="255.0" y1="362.0" x1="274.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="859.0" target="Vgk" source="ATP" x2="255.0" y1="815.0" x1="436.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="593.0" target="G6P" source="Vgk" x2="341.0" y1="859.0" x1="255.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="646.0" target="ADP" source="Vgk" x2="890.0" y1="859.0" x1="255.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="236.0" target="Vpfk" source="ATP" x2="989.0" y1="815.0" x1="436.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="236.0" target="Vpfk" source="F6P" x2="989.0" y1="175.0" x1="551.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="378.0" target="F16bP" source="Vpfk" x2="633.0" y1="236.0" x1="989.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="646.0" target="ADP" source="Vpfk" x2="890.0" y1="236.0" x1="989.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="548.0" target="Vpfkppi" source="F6P" x2="813.0" y1="175.0" x1="551.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="548.0" target="Vpfkppi" source="PPi" x2="813.0" y1="1030.0" x1="996.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="378.0" target="F16bP" source="Vpfkppi" x2="633.0" y1="548.0" x1="813.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="533.0" target="Vfbp" source="F16bP" x2="376.0" y1="378.0" x1="633.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="175.0" target="F6P" source="Vfbp" x2="551.0" y1="533.0" x1="376.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="174.0" target="Vald" source="F16bP" x2="756.0" y1="378.0" x1="633.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="839.0" target="GAP" source="Vald" x2="398.0" y1="174.0" x1="756.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="579.0" target="DHAP" source="Vald" x2="208.0" y1="174.0" x1="756.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="134.0" target="Vtpi" source="DHAP" x2="1066.0" y1="579.0" x1="208.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="839.0" target="GAP" source="Vtpi" x2="398.0" y1="134.0" x1="1066.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="845.0" target="Vgapdh" source="NAD" x2="538.0" y1="716.0" x1="60.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="845.0" target="Vgapdh" source="GAP" x2="538.0" y1="839.0" x1="398.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="662.0" target="dPG" source="Vgapdh" x2="598.0" y1="845.0" x1="538.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="1046.0" target="NADH" source="Vgapdh" x2="720.0" y1="845.0" x1="538.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="537.0" target="Vpgk" source="dPG" x2="959.0" y1="662.0" x1="598.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="537.0" target="Vpgk" source="ADP" x2="959.0" y1="646.0" x1="890.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="815.0" target="ATP" source="Vpgk" x2="436.0" y1="537.0" x1="959.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="589.0" target="PG" source="Vpgk" x2="837.0" y1="537.0" x1="959.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="936.0" target="Veno" source="PG" x2="396.0" y1="589.0" x1="837.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="838.0" target="PEP" source="Veno" x2="933.0" y1="936.0" x1="396.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="352.0" target="Vpk" source="PEP" x2="661.0" y1="838.0" x1="933.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="352.0" target="Vpk" source="ADP" x2="661.0" y1="646.0" x1="890.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="487.0" target="Pyr" source="Vpk" x2="764.0" y1="352.0" x1="661.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="815.0" target="ATP" source="Vpk" x2="436.0" y1="352.0" x1="661.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="613.0" target="VPepc" source="PEP" x2="977.0" y1="838.0" x1="933.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="613.0" target="VPepc" source="CO2" x2="977.0" y1="846.0" x1="685.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="315.0" target="OAA" source="VPepc" x2="526.0" y1="613.0" x1="977.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="251.0" target="VPepck" source="OAA" x2="972.0" y1="315.0" x1="526.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="251.0" target="VPepck" source="PPi" x2="972.0" y1="1030.0" x1="996.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="838.0" target="PEP" source="VPepck" x2="933.0" y1="251.0" x1="972.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="846.0" target="CO2" source="VPepck" x2="685.0" y1="251.0" x1="972.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="920.0" target="Vpdh" source="Pyr" x2="356.0" y1="487.0" x1="764.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="920.0" target="Vpdh" source="NAD" x2="356.0" y1="716.0" x1="60.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="1046.0" target="NADH" source="Vpdh" x2="720.0" y1="920.0" x1="356.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="846.0" target="CO2" source="Vpdh" x2="685.0" y1="920.0" x1="356.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="589.0" target="AccoA" source="Vpdh" x2="322.0" y1="920.0" x1="356.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="63.0" target="Vcs" source="AccoA" x2="1001.0" y1="589.0" x1="322.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="63.0" target="Vcs" source="OAA" x2="1001.0" y1="315.0" x1="526.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="634.0" target="Cit" source="Vcs" x2="121.0" y1="63.0" x1="1001.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="611.0" target="Vaco" source="Cit" x2="138.0" y1="634.0" x1="121.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="939.0" target="ICit" source="Vaco" x2="917.0" y1="611.0" x1="138.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="213.0" target="Vidh" source="ICit" x2="396.0" y1="939.0" x1="917.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="213.0" target="Vidh" source="NAD" x2="396.0" y1="716.0" x1="60.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="220.0" target="aKG" source="Vidh" x2="1030.0" y1="213.0" x1="396.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="1046.0" target="NADH" source="Vidh" x2="720.0" y1="213.0" x1="396.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="846.0" target="CO2" source="Vidh" x2="685.0" y1="213.0" x1="396.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="343.0" target="Vkgdh" source="aKG" x2="399.0" y1="220.0" x1="1030.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="343.0" target="Vkgdh" source="NAD" x2="399.0" y1="716.0" x1="60.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="1046.0" target="NADH" source="Vkgdh" x2="720.0" y1="343.0" x1="399.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="846.0" target="CO2" source="Vkgdh" x2="685.0" y1="343.0" x1="399.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="84.0" target="Succ" source="Vkgdh" x2="331.0" y1="343.0" x1="399.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="311.0" target="Vsdh" source="FAD" x2="841.0" y1="595.0" x1="605.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="311.0" target="Vsdh" source="Succ" x2="841.0" y1="84.0" x1="331.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="910.0" target="FADH2" source="Vsdh" x2="517.0" y1="311.0" x1="841.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="829.0" target="Fum" source="Vsdh" x2="787.0" y1="311.0" x1="841.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="138.0" target="VFum" source="Fum" x2="795.0" y1="829.0" x1="787.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="613.0" target="Mal" source="VFum" x2="1023.0" y1="138.0" x1="795.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="144.0" target="Vmdh" source="NAD" x2="262.0" y1="716.0" x1="60.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="144.0" target="Vmdh" source="Mal" x2="262.0" y1="613.0" x1="1023.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="1046.0" target="NADH" source="Vmdh" x2="720.0" y1="144.0" x1="262.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="315.0" target="OAA" source="Vmdh" x2="526.0" y1="144.0" x1="262.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="477.0" target="Vme" source="NAD" x2="228.0" y1="716.0" x1="60.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="477.0" target="Vme" source="Mal" x2="228.0" y1="613.0" x1="1023.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="487.0" target="Pyr" source="Vme" x2="764.0" y1="477.0" x1="228.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="1046.0" target="NADH" source="Vme" x2="720.0" y1="477.0" x1="228.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="846.0" target="CO2" source="Vme" x2="685.0" y1="477.0" x1="228.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="255.0" target="Vg6pdh" source="G6P" x2="248.0" y1="593.0" x1="341.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="255.0" target="Vg6pdh" source="NADP" x2="248.0" y1="570.0" x1="162.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="765.0" target="Ru5P" source="Vg6pdh" x2="1026.0" y1="255.0" x1="248.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="846.0" target="CO2" source="Vg6pdh" x2="685.0" y1="255.0" x1="248.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="896.0" target="NADPH" source="Vg6pdh" x2="681.0" y1="255.0" x1="248.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="717.0" target="Vepi" source="Ru5P" x2="742.0" y1="765.0" x1="1026.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="810.0" target="X5P" source="Vepi" x2="91.0" y1="717.0" x1="742.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="134.0" target="Vriso" source="Ru5P" x2="579.0" y1="765.0" x1="1026.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="918.0" target="Ri5P" source="Vriso" x2="751.0" y1="134.0" x1="579.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="64.0" target="Vtk1" source="S7P" x2="436.0" y1="406.0" x1="503.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="64.0" target="Vtk1" source="DHAP" x2="436.0" y1="579.0" x1="208.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="918.0" target="Ri5P" source="Vtk1" x2="751.0" y1="64.0" x1="436.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="810.0" target="X5P" source="Vtk1" x2="91.0" y1="64.0" x1="436.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="166.0" target="Vtk2" source="F6P" x2="627.0" y1="175.0" x1="551.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="166.0" target="Vtk2" source="DHAP" x2="627.0" y1="579.0" x1="208.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="810.0" target="X5P" source="Vtk2" x2="91.0" y1="166.0" x1="627.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="298.0" target="E4P" source="Vtk2" x2="214.0" y1="166.0" x1="627.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="339.0" target="Vtald" source="S7P" x2="367.0" y1="406.0" x1="503.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="339.0" target="Vtald" source="DHAP" x2="367.0" y1="579.0" x1="208.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="175.0" target="F6P" source="Vtald" x2="551.0" y1="339.0" x1="367.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="298.0" target="E4P" source="Vtald" x2="214.0" y1="339.0" x1="367.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="526.0" target="Vrbco" source="Ru5P" x2="185.0" y1="765.0" x1="1026.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="526.0" target="Vrbco" source="CO2" x2="185.0" y1="846.0" x1="685.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="579.0" target="DHAP" source="Vrbco" x2="208.0" y1="526.0" x1="185.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="674.0" target="Vpgm" source="G1P" x2="539.0" y1="896.0" x1="1050.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="593.0" target="G6P" source="Vpgm" x2="341.0" y1="674.0" x1="539.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="112.0" target="Vagpase" source="G1P" x2="211.0" y1="896.0" x1="1050.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="112.0" target="Vagpase" source="ATP" x2="211.0" y1="815.0" x1="436.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="652.0" target="ADPG" source="Vagpase" x2="759.0" y1="112.0" x1="211.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="1030.0" target="PPi" source="Vagpase" x2="996.0" y1="112.0" x1="211.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="627.0" target="Vugpase" source="G1P" x2="275.0" y1="896.0" x1="1050.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="627.0" target="Vugpase" source="UTP" x2="275.0" y1="476.0" x1="332.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="848.0" target="UDPG" source="Vugpase" x2="730.0" y1="627.0" x1="275.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="1030.0" target="PPi" source="Vugpase" x2="996.0" y1="627.0" x1="275.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="558.0" target="Vsusy" source="Fru" x2="921.0" y1="789.0" x1="386.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="558.0" target="Vsusy" source="UDPG" x2="921.0" y1="848.0" x1="730.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="478.0" target="Suc" source="Vsusy" x2="548.0" y1="558.0" x1="921.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="623.0" target="UDP" source="Vsusy" x2="614.0" y1="558.0" x1="921.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="624.0" target="Vinv" source="Suc" x2="819.0" y1="478.0" x1="548.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="362.0" target="Glc" source="Vinv" x2="274.0" y1="624.0" x1="819.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="789.0" target="Fru" source="Vinv" x2="386.0" y1="624.0" x1="819.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="688.0" target="Vsps" source="UDPG" x2="713.0" y1="848.0" x1="730.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="688.0" target="Vsps" source="F6P" x2="713.0" y1="175.0" x1="551.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="1020.0" target="SucP" source="Vsps" x2="61.0" y1="688.0" x1="713.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="623.0" target="UDP" source="Vsps" x2="614.0" y1="688.0" x1="713.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="540.0" target="Vspase" source="SucP" x2="782.0" y1="1020.0" x1="61.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="478.0" target="Suc" source="Vspase" x2="548.0" y1="540.0" x1="782.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="925.0" target="Vala" source="Pyr" x2="968.0" y1="487.0" x1="764.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="925.0" target="Vala" source="Glu" x2="968.0" y1="76.0" x1="334.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="945.0" target="Ala" source="Vala" x2="341.0" y1="925.0" x1="968.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="220.0" target="aKG" source="Vala" x2="1030.0" y1="925.0" x1="968.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="961.0" target="Vasp" source="Glu" x2="106.0" y1="76.0" x1="334.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="961.0" target="Vasp" source="OAA" x2="106.0" y1="315.0" x1="526.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="220.0" target="aKG" source="Vasp" x2="1030.0" y1="961.0" x1="106.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="236.0" target="Asp" source="Vasp" x2="973.0" y1="961.0" x1="106.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="142.0" target="Vgdh" source="aKG" x2="604.0" y1="220.0" x1="1030.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="142.0" target="Vgdh" source="NADH" x2="604.0" y1="1046.0" x1="720.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="142.0" target="Vgdh" source="NH4" x2="604.0" y1="897.0" x1="868.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="76.0" target="Glu" source="Vgdh" x2="334.0" y1="142.0" x1="604.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="716.0" target="NAD" source="Vgdh" x2="60.0" y1="142.0" x1="604.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="798.0" target="Vgs" source="Glu" x2="226.0" y1="76.0" x1="334.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="798.0" target="Vgs" source="ATP" x2="226.0" y1="815.0" x1="436.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="798.0" target="Vgs" source="NH4" x2="226.0" y1="897.0" x1="868.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="1005.0" target="Gln" source="Vgs" x2="417.0" y1="798.0" x1="226.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="646.0" target="ADP" source="Vgs" x2="890.0" y1="798.0" x1="226.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="109.0" target="Vgogat" source="Gln" x2="813.0" y1="1005.0" x1="417.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="109.0" target="Vgogat" source="aKG" x2="813.0" y1="220.0" x1="1030.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="109.0" target="Vgogat" source="NADPH" x2="813.0" y1="896.0" x1="681.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="76.0" target="Glu" source="Vgogat" x2="334.0" y1="109.0" x1="813.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="570.0" target="NADP" source="Vgogat" x2="162.0" y1="109.0" x1="813.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="612.0" target="Vnr" source="NADH" x2="225.0" y1="1046.0" x1="720.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="612.0" target="Vnr" source="NO3" x2="225.0" y1="750.0" x1="519.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="716.0" target="NAD" source="Vnr" x2="60.0" y1="612.0" x1="225.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="897.0" target="NH4" source="Vnr" x2="868.0" y1="612.0" x1="225.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="366.0" target="VFA16" source="ATP" x2="902.0" y1="815.0" x1="436.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="366.0" target="VFA16" source="NADPH" x2="902.0" y1="896.0" x1="681.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="366.0" target="VFA16" source="AccoA" x2="902.0" y1="589.0" x1="322.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="400.0" target="FA16" source="VFA16" x2="893.0" y1="366.0" x1="902.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="734.0" target="AMP" source="VFA16" x2="184.0" y1="366.0" x1="902.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="570.0" target="NADP" source="VFA16" x2="162.0" y1="366.0" x1="902.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="1030.0" target="PPi" source="VFA16" x2="996.0" y1="366.0" x1="902.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="542.0" target="VFA18" source="FA16" x2="842.0" y1="400.0" x1="893.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="542.0" target="VFA18" source="ATP" x2="842.0" y1="815.0" x1="436.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="542.0" target="VFA18" source="NADPH" x2="842.0" y1="896.0" x1="681.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="542.0" target="VFA18" source="AccoA" x2="842.0" y1="589.0" x1="322.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="365.0" target="FA18" source="VFA18" x2="930.0" y1="542.0" x1="842.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="734.0" target="AMP" source="VFA18" x2="184.0" y1="542.0" x1="842.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="570.0" target="NADP" source="VFA18" x2="162.0" y1="542.0" x1="842.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="1030.0" target="PPi" source="VFA18" x2="996.0" y1="542.0" x1="842.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="1037.0" target="VFA" source="FA16" x2="142.0" y1="400.0" x1="893.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="1037.0" target="VFA" source="FA18" x2="142.0" y1="365.0" x1="930.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="225.0" target="FA" source="VFA" x2="109.0" y1="1037.0" x1="142.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="308.0" target="Vglyc3P" source="ATP" x2="76.0" y1="815.0" x1="436.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="308.0" target="Vglyc3P" source="NADH" x2="76.0" y1="1046.0" x1="720.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="308.0" target="Vglyc3P" source="DHAP" x2="76.0" y1="579.0" x1="208.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="714.0" target="Glyc3P" source="Vglyc3P" x2="612.0" y1="308.0" x1="76.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="716.0" target="NAD" source="Vglyc3P" x2="60.0" y1="308.0" x1="76.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="646.0" target="ADP" source="Vglyc3P" x2="890.0" y1="308.0" x1="76.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="304.0" target="Vdag" source="FA" x2="885.0" y1="225.0" x1="109.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="304.0" target="Vdag" source="Glyc3P" x2="885.0" y1="714.0" x1="612.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="304.0" target="Vdag" source="ATP" x2="885.0" y1="815.0" x1="436.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="494.0" target="DAG" source="Vdag" x2="657.0" y1="304.0" x1="885.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="646.0" target="ADP" source="Vdag" x2="890.0" y1="304.0" x1="885.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="301.0" target="Vcw" source="UDPG" x2="812.0" y1="848.0" x1="730.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="872.0" target="CW" source="Vcw" x2="198.0" y1="301.0" x1="812.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="623.0" target="UDP" source="Vcw" x2="614.0" y1="301.0" x1="812.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="732.0" target="Vac_Glu" source="Glu" x2="876.0" y1="76.0" x1="334.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="647.0" target="Glu_ac" source="Vac_Glu" x2="724.0" y1="732.0" x1="876.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="557.0" target="Vac_Asp" source="Asp" x2="347.0" y1="236.0" x1="973.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="276.0" target="Asp_ac" source="Vac_Asp" x2="290.0" y1="557.0" x1="347.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="515.0" target="Vac_Ala" source="Ala" x2="1048.0" y1="945.0" x1="341.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="444.0" target="Ala_ac" source="Vac_Ala" x2="603.0" y1="515.0" x1="1048.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="55.0" target="Vprotein" source="Ala" x2="366.0" y1="945.0" x1="341.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="55.0" target="Vprotein" source="Glu" x2="366.0" y1="76.0" x1="334.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="55.0" target="Vprotein" source="ATP" x2="366.0" y1="815.0" x1="436.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="55.0" target="Vprotein" source="NADPH" x2="366.0" y1="896.0" x1="681.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="55.0" target="Vprotein" source="Asp" x2="366.0" y1="236.0" x1="973.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="741.0" target="PROTEIN" source="Vprotein" x2="481.0" y1="55.0" x1="366.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="570.0" target="NADP" source="Vprotein" x2="162.0" y1="55.0" x1="366.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="646.0" target="ADP" source="Vprotein" x2="890.0" y1="55.0" x1="366.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="942.0" target="Vac_cit" source="Cit" x2="966.0" y1="634.0" x1="121.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="556.0" target="Cit_ac" source="Vac_cit" x2="1021.0" y1="942.0" x1="966.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="423.0" target="Vac_mal" source="Mal" x2="1034.0" y1="613.0" x1="1023.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="986.0" target="Mal_ac" source="Vac_mal" x2="118.0" y1="423.0" x1="1034.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="496.0" target="Vac_glc" source="Glc" x2="147.0" y1="362.0" x1="274.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="683.0" target="Glc_ac" source="Vac_glc" x2="127.0" y1="496.0" x1="147.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="187.0" target="Vac_fru" source="Fru" x2="555.0" y1="789.0" x1="386.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="327.0" target="Fru_ac" source="Vac_fru" x2="379.0" y1="187.0" x1="555.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="910.0" target="Vac_suc" source="Suc" x2="749.0" y1="478.0" x1="548.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="320.0" target="Suc_ac" source="Vac_suc" x2="586.0" y1="910.0" x1="749.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="730.0" target="Vss" source="ADPG" x2="203.0" y1="652.0" x1="759.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="877.0" target="STARCH" source="Vss" x2="310.0" y1="730.0" x1="203.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="646.0" target="ADP" source="Vss" x2="890.0" y1="730.0" x1="203.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="577.0" target="Vsd" source="STARCH" x2="199.0" y1="877.0" x1="310.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="577.0" target="Vsd" source="ATP" x2="199.0" y1="815.0" x1="436.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="896.0" target="G1P" source="Vsd" x2="1050.0" y1="577.0" x1="199.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="734.0" target="AMP" source="Vsd" x2="184.0" y1="577.0" x1="199.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="995.0" target="Vnrj1" source="NADH" x2="541.0" y1="1046.0" x1="720.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="995.0" target="Vnrj1" source="ADP" x2="541.0" y1="646.0" x1="890.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="815.0" target="ATP" source="Vnrj1" x2="436.0" y1="995.0" x1="541.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="716.0" target="NAD" source="Vnrj1" x2="60.0" y1="995.0" x1="541.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="291.0" target="Vnrj2" source="FADH2" x2="229.0" y1="910.0" x1="517.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="291.0" target="Vnrj2" source="ADP" x2="229.0" y1="646.0" x1="890.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="815.0" target="ATP" source="Vnrj2" x2="436.0" y1="291.0" x1="229.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="595.0" target="FAD" source="Vnrj2" x2="605.0" y1="291.0" x1="229.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="567.0" target="Vnrj3" source="ATP" x2="545.0" y1="815.0" x1="436.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="567.0" target="Vnrj3" source="UDP" x2="545.0" y1="623.0" x1="614.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="646.0" target="ADP" source="Vnrj3" x2="890.0" y1="567.0" x1="545.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="476.0" target="UTP" source="Vnrj3" x2="332.0" y1="567.0" x1="545.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="1065.0" target="Vadk" source="ATP" x2="818.0" y1="815.0" x1="436.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="1065.0" target="Vadk" source="AMP" x2="818.0" y1="734.0" x1="184.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="646.0" target="ADP" source="Vadk" x2="890.0" y1="1065.0" x1="818.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="283.0" target="Vnga_ATPm" source="ATP" x2="723.0" y1="815.0" x1="436.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="646.0" target="ADP" source="Vnga_ATPm" x2="890.0" y1="283.0" x1="723.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="620.0" target="Vppi" source="H2O" x2="791.0" y1="496.0" x1="162.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="620.0" target="Vppi" source="PPi" x2="791.0" y1="1030.0" x1="996.0"  />
+<line style="stroke:rgb(0,0,0); stroke-width:0.5; " y2="640.0" target="Pi" source="Vppi" x2="475.0" y1="620.0" x1="791.0"  />
+<rect style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(0,255,0); " height="13.0" width="13.0" y="402.5" x="1009.5" id="VSuc_up"  />
+<text style="font-size:5; text-anchor:middle; " id="VSuc_up" y="409.0" x="1016.0"  >
+VSuc_up</text>
+<rect style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(0,255,0); " height="13.0" width="13.0" y="148.5" x="158.5" id="VGln_up"  />
+<text style="font-size:5; text-anchor:middle; " id="VGln_up" y="155.0" x="165.0"  >
+VGln_up</text>
+<rect style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(0,255,0); " height="13.0" width="13.0" y="124.5" x="298.5" id="Vpgi"  />
+<text style="font-size:5; text-anchor:middle; " id="Vpgi" y="131.0" x="305.0"  >
+Vpgi</text>
+<rect style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(0,255,0); " height="13.0" width="13.0" y="117.5" x="279.5" id="Vfk"  />
+<text style="font-size:5; text-anchor:middle; " id="Vfk" y="124.0" x="286.0"  >
+Vfk</text>
+<rect style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(0,255,0); " height="13.0" width="13.0" y="852.5" x="248.5" id="Vgk"  />
+<text style="font-size:5; text-anchor:middle; " id="Vgk" y="859.0" x="255.0"  >
+Vgk</text>
+<rect style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(0,255,0); " height="13.0" width="13.0" y="229.5" x="982.5" id="Vpfk"  />
+<text style="font-size:5; text-anchor:middle; " id="Vpfk" y="236.0" x="989.0"  >
+Vpfk</text>
+<rect style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(0,255,0); " height="13.0" width="13.0" y="541.5" x="806.5" id="Vpfkppi"  />
+<text style="font-size:5; text-anchor:middle; " id="Vpfkppi" y="548.0" x="813.0"  >
+Vpfkppi</text>
+<rect style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(0,255,0); " height="13.0" width="13.0" y="526.5" x="369.5" id="Vfbp"  />
+<text style="font-size:5; text-anchor:middle; " id="Vfbp" y="533.0" x="376.0"  >
+Vfbp</text>
+<rect style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(0,255,0); " height="13.0" width="13.0" y="167.5" x="749.5" id="Vald"  />
+<text style="font-size:5; text-anchor:middle; " id="Vald" y="174.0" x="756.0"  >
+Vald</text>
+<rect style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(0,255,0); " height="13.0" width="13.0" y="127.5" x="1059.5" id="Vtpi"  />
+<text style="font-size:5; text-anchor:middle; " id="Vtpi" y="134.0" x="1066.0"  >
+Vtpi</text>
+<rect style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(0,255,0); " height="13.0" width="13.0" y="838.5" x="531.5" id="Vgapdh"  />
+<text style="font-size:5; text-anchor:middle; " id="Vgapdh" y="845.0" x="538.0"  >
+Vgapdh</text>
+<rect style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(0,255,0); " height="13.0" width="13.0" y="530.5" x="952.5" id="Vpgk"  />
+<text style="font-size:5; text-anchor:middle; " id="Vpgk" y="537.0" x="959.0"  >
+Vpgk</text>
+<rect style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(0,255,0); " height="13.0" width="13.0" y="929.5" x="389.5" id="Veno"  />
+<text style="font-size:5; text-anchor:middle; " id="Veno" y="936.0" x="396.0"  >
+Veno</text>
+<rect style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(0,255,0); " height="13.0" width="13.0" y="345.5" x="654.5" id="Vpk"  />
+<text style="font-size:5; text-anchor:middle; " id="Vpk" y="352.0" x="661.0"  >
+Vpk</text>
+<rect style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(0,255,0); " height="13.0" width="13.0" y="606.5" x="970.5" id="VPepc"  />
+<text style="font-size:5; text-anchor:middle; " id="VPepc" y="613.0" x="977.0"  >
+VPepc</text>
+<rect style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(0,255,0); " height="13.0" width="13.0" y="244.5" x="965.5" id="VPepck"  />
+<text style="font-size:5; text-anchor:middle; " id="VPepck" y="251.0" x="972.0"  >
+VPepck</text>
+<rect style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(0,255,0); " height="13.0" width="13.0" y="913.5" x="349.5" id="Vpdh"  />
+<text style="font-size:5; text-anchor:middle; " id="Vpdh" y="920.0" x="356.0"  >
+Vpdh</text>
+<rect style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(0,255,0); " height="13.0" width="13.0" y="56.5" x="994.5" id="Vcs"  />
+<text style="font-size:5; text-anchor:middle; " id="Vcs" y="63.0" x="1001.0"  >
+Vcs</text>
+<rect style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(0,255,0); " height="13.0" width="13.0" y="604.5" x="131.5" id="Vaco"  />
+<text style="font-size:5; text-anchor:middle; " id="Vaco" y="611.0" x="138.0"  >
+Vaco</text>
+<rect style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(0,255,0); " height="13.0" width="13.0" y="206.5" x="389.5" id="Vidh"  />
+<text style="font-size:5; text-anchor:middle; " id="Vidh" y="213.0" x="396.0"  >
+Vidh</text>
+<rect style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(0,255,0); " height="13.0" width="13.0" y="336.5" x="392.5" id="Vkgdh"  />
+<text style="font-size:5; text-anchor:middle; " id="Vkgdh" y="343.0" x="399.0"  >
+Vkgdh</text>
+<rect style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(0,255,0); " height="13.0" width="13.0" y="304.5" x="834.5" id="Vsdh"  />
+<text style="font-size:5; text-anchor:middle; " id="Vsdh" y="311.0" x="841.0"  >
+Vsdh</text>
+<rect style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(0,255,0); " height="13.0" width="13.0" y="131.5" x="788.5" id="VFum"  />
+<text style="font-size:5; text-anchor:middle; " id="VFum" y="138.0" x="795.0"  >
+VFum</text>
+<rect style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(0,255,0); " height="13.0" width="13.0" y="137.5" x="255.5" id="Vmdh"  />
+<text style="font-size:5; text-anchor:middle; " id="Vmdh" y="144.0" x="262.0"  >
+Vmdh</text>
+<rect style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(0,255,0); " height="13.0" width="13.0" y="470.5" x="221.5" id="Vme"  />
+<text style="font-size:5; text-anchor:middle; " id="Vme" y="477.0" x="228.0"  >
+Vme</text>
+<rect style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(0,255,0); " height="13.0" width="13.0" y="248.5" x="241.5" id="Vg6pdh"  />
+<text style="font-size:5; text-anchor:middle; " id="Vg6pdh" y="255.0" x="248.0"  >
+Vg6pdh</text>
+<rect style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(0,255,0); " height="13.0" width="13.0" y="710.5" x="735.5" id="Vepi"  />
+<text style="font-size:5; text-anchor:middle; " id="Vepi" y="717.0" x="742.0"  >
+Vepi</text>
+<rect style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(0,255,0); " height="13.0" width="13.0" y="127.5" x="572.5" id="Vriso"  />
+<text style="font-size:5; text-anchor:middle; " id="Vriso" y="134.0" x="579.0"  >
+Vriso</text>
+<rect style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(0,255,0); " height="13.0" width="13.0" y="57.5" x="429.5" id="Vtk1"  />
+<text style="font-size:5; text-anchor:middle; " id="Vtk1" y="64.0" x="436.0"  >
+Vtk1</text>
+<rect style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(0,255,0); " height="13.0" width="13.0" y="159.5" x="620.5" id="Vtk2"  />
+<text style="font-size:5; text-anchor:middle; " id="Vtk2" y="166.0" x="627.0"  >
+Vtk2</text>
+<rect style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(0,255,0); " height="13.0" width="13.0" y="332.5" x="360.5" id="Vtald"  />
+<text style="font-size:5; text-anchor:middle; " id="Vtald" y="339.0" x="367.0"  >
+Vtald</text>
+<rect style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(0,255,0); " height="13.0" width="13.0" y="519.5" x="178.5" id="Vrbco"  />
+<text style="font-size:5; text-anchor:middle; " id="Vrbco" y="526.0" x="185.0"  >
+Vrbco</text>
+<rect style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(0,255,0); " height="13.0" width="13.0" y="667.5" x="532.5" id="Vpgm"  />
+<text style="font-size:5; text-anchor:middle; " id="Vpgm" y="674.0" x="539.0"  >
+Vpgm</text>
+<rect style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(0,255,0); " height="13.0" width="13.0" y="105.5" x="204.5" id="Vagpase"  />
+<text style="font-size:5; text-anchor:middle; " id="Vagpase" y="112.0" x="211.0"  >
+Vagpase</text>
+<rect style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(0,255,0); " height="13.0" width="13.0" y="620.5" x="268.5" id="Vugpase"  />
+<text style="font-size:5; text-anchor:middle; " id="Vugpase" y="627.0" x="275.0"  >
+Vugpase</text>
+<rect style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(0,255,0); " height="13.0" width="13.0" y="551.5" x="914.5" id="Vsusy"  />
+<text style="font-size:5; text-anchor:middle; " id="Vsusy" y="558.0" x="921.0"  >
+Vsusy</text>
+<rect style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(0,255,0); " height="13.0" width="13.0" y="617.5" x="812.5" id="Vinv"  />
+<text style="font-size:5; text-anchor:middle; " id="Vinv" y="624.0" x="819.0"  >
+Vinv</text>
+<rect style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(0,255,0); " height="13.0" width="13.0" y="681.5" x="706.5" id="Vsps"  />
+<text style="font-size:5; text-anchor:middle; " id="Vsps" y="688.0" x="713.0"  >
+Vsps</text>
+<rect style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(0,255,0); " height="13.0" width="13.0" y="533.5" x="775.5" id="Vspase"  />
+<text style="font-size:5; text-anchor:middle; " id="Vspase" y="540.0" x="782.0"  >
+Vspase</text>
+<rect style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(0,255,0); " height="13.0" width="13.0" y="918.5" x="961.5" id="Vala"  />
+<text style="font-size:5; text-anchor:middle; " id="Vala" y="925.0" x="968.0"  >
+Vala</text>
+<rect style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(0,255,0); " height="13.0" width="13.0" y="954.5" x="99.5" id="Vasp"  />
+<text style="font-size:5; text-anchor:middle; " id="Vasp" y="961.0" x="106.0"  >
+Vasp</text>
+<rect style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(0,255,0); " height="13.0" width="13.0" y="135.5" x="597.5" id="Vgdh"  />
+<text style="font-size:5; text-anchor:middle; " id="Vgdh" y="142.0" x="604.0"  >
+Vgdh</text>
+<rect style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(0,255,0); " height="13.0" width="13.0" y="791.5" x="219.5" id="Vgs"  />
+<text style="font-size:5; text-anchor:middle; " id="Vgs" y="798.0" x="226.0"  >
+Vgs</text>
+<rect style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(0,255,0); " height="13.0" width="13.0" y="102.5" x="806.5" id="Vgogat"  />
+<text style="font-size:5; text-anchor:middle; " id="Vgogat" y="109.0" x="813.0"  >
+Vgogat</text>
+<rect style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(0,255,0); " height="13.0" width="13.0" y="605.5" x="218.5" id="Vnr"  />
+<text style="font-size:5; text-anchor:middle; " id="Vnr" y="612.0" x="225.0"  >
+Vnr</text>
+<rect style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(0,255,0); " height="13.0" width="13.0" y="359.5" x="895.5" id="VFA16"  />
+<text style="font-size:5; text-anchor:middle; " id="VFA16" y="366.0" x="902.0"  >
+VFA16</text>
+<rect style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(0,255,0); " height="13.0" width="13.0" y="535.5" x="835.5" id="VFA18"  />
+<text style="font-size:5; text-anchor:middle; " id="VFA18" y="542.0" x="842.0"  >
+VFA18</text>
+<rect style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(0,255,0); " height="13.0" width="13.0" y="1030.5" x="135.5" id="VFA"  />
+<text style="font-size:5; text-anchor:middle; " id="VFA" y="1037.0" x="142.0"  >
+VFA</text>
+<rect style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(0,255,0); " height="13.0" width="13.0" y="301.5" x="69.5" id="Vglyc3P"  />
+<text style="font-size:5; text-anchor:middle; " id="Vglyc3P" y="308.0" x="76.0"  >
+Vglyc3P</text>
+<rect style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(0,255,0); " height="13.0" width="13.0" y="297.5" x="878.5" id="Vdag"  />
+<text style="font-size:5; text-anchor:middle; " id="Vdag" y="304.0" x="885.0"  >
+Vdag</text>
+<rect style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(0,255,0); " height="13.0" width="13.0" y="294.5" x="805.5" id="Vcw"  />
+<text style="font-size:5; text-anchor:middle; " id="Vcw" y="301.0" x="812.0"  >
+Vcw</text>
+<rect style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(0,255,0); " height="13.0" width="13.0" y="725.5" x="869.5" id="Vac_Glu"  />
+<text style="font-size:5; text-anchor:middle; " id="Vac_Glu" y="732.0" x="876.0"  >
+Vac_Glu</text>
+<rect style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(0,255,0); " height="13.0" width="13.0" y="550.5" x="340.5" id="Vac_Asp"  />
+<text style="font-size:5; text-anchor:middle; " id="Vac_Asp" y="557.0" x="347.0"  >
+Vac_Asp</text>
+<rect style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(0,255,0); " height="13.0" width="13.0" y="508.5" x="1041.5" id="Vac_Ala"  />
+<text style="font-size:5; text-anchor:middle; " id="Vac_Ala" y="515.0" x="1048.0"  >
+Vac_Ala</text>
+<rect style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(0,255,0); " height="13.0" width="13.0" y="48.5" x="359.5" id="Vprotein"  />
+<text style="font-size:5; text-anchor:middle; " id="Vprotein" y="55.0" x="366.0"  >
+Vprotein</text>
+<rect style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(0,255,0); " height="13.0" width="13.0" y="935.5" x="959.5" id="Vac_cit"  />
+<text style="font-size:5; text-anchor:middle; " id="Vac_cit" y="942.0" x="966.0"  >
+Vac_cit</text>
+<rect style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(0,255,0); " height="13.0" width="13.0" y="416.5" x="1027.5" id="Vac_mal"  />
+<text style="font-size:5; text-anchor:middle; " id="Vac_mal" y="423.0" x="1034.0"  >
+Vac_mal</text>
+<rect style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(0,255,0); " height="13.0" width="13.0" y="489.5" x="140.5" id="Vac_glc"  />
+<text style="font-size:5; text-anchor:middle; " id="Vac_glc" y="496.0" x="147.0"  >
+Vac_glc</text>
+<rect style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(0,255,0); " height="13.0" width="13.0" y="180.5" x="548.5" id="Vac_fru"  />
+<text style="font-size:5; text-anchor:middle; " id="Vac_fru" y="187.0" x="555.0"  >
+Vac_fru</text>
+<rect style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(0,255,0); " height="13.0" width="13.0" y="903.5" x="742.5" id="Vac_suc"  />
+<text style="font-size:5; text-anchor:middle; " id="Vac_suc" y="910.0" x="749.0"  >
+Vac_suc</text>
+<rect style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(0,255,0); " height="13.0" width="13.0" y="723.5" x="196.5" id="Vss"  />
+<text style="font-size:5; text-anchor:middle; " id="Vss" y="730.0" x="203.0"  >
+Vss</text>
+<rect style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(0,255,0); " height="13.0" width="13.0" y="570.5" x="192.5" id="Vsd"  />
+<text style="font-size:5; text-anchor:middle; " id="Vsd" y="577.0" x="199.0"  >
+Vsd</text>
+<rect style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(0,255,0); " height="13.0" width="13.0" y="988.5" x="534.5" id="Vnrj1"  />
+<text style="font-size:5; text-anchor:middle; " id="Vnrj1" y="995.0" x="541.0"  >
+Vnrj1</text>
+<rect style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(0,255,0); " height="13.0" width="13.0" y="284.5" x="222.5" id="Vnrj2"  />
+<text style="font-size:5; text-anchor:middle; " id="Vnrj2" y="291.0" x="229.0"  >
+Vnrj2</text>
+<rect style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(0,255,0); " height="13.0" width="13.0" y="560.5" x="538.5" id="Vnrj3"  />
+<text style="font-size:5; text-anchor:middle; " id="Vnrj3" y="567.0" x="545.0"  >
+Vnrj3</text>
+<rect style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(0,255,0); " height="13.0" width="13.0" y="1058.5" x="811.5" id="Vadk"  />
+<text style="font-size:5; text-anchor:middle; " id="Vadk" y="1065.0" x="818.0"  >
+Vadk</text>
+<rect style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(0,255,0); " height="13.0" width="13.0" y="276.5" x="716.5" id="Vnga_ATPm"  />
+<text style="font-size:5; text-anchor:middle; " id="Vnga_ATPm" y="283.0" x="723.0"  >
+Vnga_ATPm</text>
+<rect style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(0,255,0); " height="13.0" width="13.0" y="613.5" x="784.5" id="Vppi"  />
+<text style="font-size:5; text-anchor:middle; " id="Vppi" y="620.0" x="791.0"  >
+Vppi</text>
+<circle cy="1020.0" cx="61.0" r="6.5" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,0,0); " id="SucP"  />
+<text style="font-size:5; text-anchor:middle; " id="SucP" y="1020.0" x="61.0"  >
+SucP</text>
+<circle cy="765.0" cx="1026.0" r="6.5" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,0,0); " id="Ru5P"  />
+<text style="font-size:5; text-anchor:middle; " id="Ru5P" y="765.0" x="1026.0"  >
+Ru5P</text>
+<circle cy="378.0" cx="633.0" r="6.5" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,0,0); " id="F16bP"  />
+<text style="font-size:5; text-anchor:middle; " id="F16bP" y="378.0" x="633.0"  >
+F16bP</text>
+<circle cy="918.0" cx="751.0" r="6.5" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,0,0); " id="Ri5P"  />
+<text style="font-size:5; text-anchor:middle; " id="Ri5P" y="918.0" x="751.0"  >
+Ri5P</text>
+<circle cy="593.0" cx="341.0" r="6.5" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,0,0); " id="G6P"  />
+<text style="font-size:5; text-anchor:middle; " id="G6P" y="593.0" x="341.0"  >
+G6P</text>
+<circle cy="848.0" cx="730.0" r="6.5" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,0,0); " id="UDPG"  />
+<text style="font-size:5; text-anchor:middle; " id="UDPG" y="848.0" x="730.0"  >
+UDPG</text>
+<circle cy="846.0" cx="685.0" r="6.5" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,0,0); " id="CO2"  />
+<text style="font-size:5; text-anchor:middle; " id="CO2" y="846.0" x="685.0"  >
+CO2</text>
+<circle cy="406.0" cx="503.0" r="6.5" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,0,0); " id="S7P"  />
+<text style="font-size:5; text-anchor:middle; " id="S7P" y="406.0" x="503.0"  >
+S7P</text>
+<circle cy="838.0" cx="933.0" r="6.5" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,0,0); " id="PEP"  />
+<text style="font-size:5; text-anchor:middle; " id="PEP" y="838.0" x="933.0"  >
+PEP</text>
+<circle cy="652.0" cx="759.0" r="6.5" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,0,0); " id="ADPG"  />
+<text style="font-size:5; text-anchor:middle; " id="ADPG" y="652.0" x="759.0"  >
+ADPG</text>
+<circle cy="400.0" cx="893.0" r="6.5" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,0,0); " id="FA16"  />
+<text style="font-size:5; text-anchor:middle; " id="FA16" y="400.0" x="893.0"  >
+FA16</text>
+<circle cy="939.0" cx="917.0" r="6.5" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,0,0); " id="ICit"  />
+<text style="font-size:5; text-anchor:middle; " id="ICit" y="939.0" x="917.0"  >
+ICit</text>
+<circle cy="365.0" cx="930.0" r="6.5" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,0,0); " id="FA18"  />
+<text style="font-size:5; text-anchor:middle; " id="FA18" y="365.0" x="930.0"  >
+FA18</text>
+<circle cy="662.0" cx="598.0" r="6.5" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,0,0); " id="dPG"  />
+<text style="font-size:5; text-anchor:middle; " id="dPG" y="662.0" x="598.0"  >
+dPG</text>
+<circle cy="579.0" cx="208.0" r="6.5" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,0,0); " id="DHAP"  />
+<text style="font-size:5; text-anchor:middle; " id="DHAP" y="579.0" x="208.0"  >
+DHAP</text>
+<circle cy="315.0" cx="526.0" r="6.5" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,0,0); " id="OAA"  />
+<text style="font-size:5; text-anchor:middle; " id="OAA" y="315.0" x="526.0"  >
+OAA</text>
+<circle cy="220.0" cx="1030.0" r="6.5" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,0,0); " id="aKG"  />
+<text style="font-size:5; text-anchor:middle; " id="aKG" y="220.0" x="1030.0"  >
+aKG</text>
+<circle cy="478.0" cx="548.0" r="6.5" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,0,0); " id="Suc"  />
+<text style="font-size:5; text-anchor:middle; " id="Suc" y="478.0" x="548.0"  >
+Suc</text>
+<circle cy="589.0" cx="322.0" r="6.5" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,0,0); " id="AccoA"  />
+<text style="font-size:5; text-anchor:middle; " id="AccoA" y="589.0" x="322.0"  >
+AccoA</text>
+<circle cy="225.0" cx="109.0" r="6.5" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,0,0); " id="FA"  />
+<text style="font-size:5; text-anchor:middle; " id="FA" y="225.0" x="109.0"  >
+FA</text>
+<circle cy="613.0" cx="1023.0" r="6.5" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,0,0); " id="Mal"  />
+<text style="font-size:5; text-anchor:middle; " id="Mal" y="613.0" x="1023.0"  >
+Mal</text>
+<circle cy="789.0" cx="386.0" r="6.5" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,0,0); " id="Fru"  />
+<text style="font-size:5; text-anchor:middle; " id="Fru" y="789.0" x="386.0"  >
+Fru</text>
+<circle cy="634.0" cx="121.0" r="6.5" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,0,0); " id="Cit"  />
+<text style="font-size:5; text-anchor:middle; " id="Cit" y="634.0" x="121.0"  >
+Cit</text>
+<circle cy="839.0" cx="398.0" r="6.5" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,0,0); " id="GAP"  />
+<text style="font-size:5; text-anchor:middle; " id="GAP" y="839.0" x="398.0"  >
+GAP</text>
+<circle cy="1005.0" cx="417.0" r="6.5" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,0,0); " id="Gln"  />
+<text style="font-size:5; text-anchor:middle; " id="Gln" y="1005.0" x="417.0"  >
+Gln</text>
+<circle cy="84.0" cx="331.0" r="6.5" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,0,0); " id="Succ"  />
+<text style="font-size:5; text-anchor:middle; " id="Succ" y="84.0" x="331.0"  >
+Succ</text>
+<circle cy="236.0" cx="973.0" r="6.5" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,0,0); " id="Asp"  />
+<text style="font-size:5; text-anchor:middle; " id="Asp" y="236.0" x="973.0"  >
+Asp</text>
+<circle cy="175.0" cx="551.0" r="6.5" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,0,0); " id="F6P"  />
+<text style="font-size:5; text-anchor:middle; " id="F6P" y="175.0" x="551.0"  >
+F6P</text>
+<circle cy="829.0" cx="787.0" r="6.5" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,0,0); " id="Fum"  />
+<text style="font-size:5; text-anchor:middle; " id="Fum" y="829.0" x="787.0"  >
+Fum</text>
+<circle cy="76.0" cx="334.0" r="6.5" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,0,0); " id="Glu"  />
+<text style="font-size:5; text-anchor:middle; " id="Glu" y="76.0" x="334.0"  >
+Glu</text>
+<circle cy="945.0" cx="341.0" r="6.5" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,0,0); " id="Ala"  />
+<text style="font-size:5; text-anchor:middle; " id="Ala" y="945.0" x="341.0"  >
+Ala</text>
+<circle cy="810.0" cx="91.0" r="6.5" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,0,0); " id="X5P"  />
+<text style="font-size:5; text-anchor:middle; " id="X5P" y="810.0" x="91.0"  >
+X5P</text>
+<circle cy="298.0" cx="214.0" r="6.5" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,0,0); " id="E4P"  />
+<text style="font-size:5; text-anchor:middle; " id="E4P" y="298.0" x="214.0"  >
+E4P</text>
+<circle cy="589.0" cx="837.0" r="6.5" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,0,0); " id="PG"  />
+<text style="font-size:5; text-anchor:middle; " id="PG" y="589.0" x="837.0"  >
+PG</text>
+<circle cy="487.0" cx="764.0" r="6.5" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,0,0); " id="Pyr"  />
+<text style="font-size:5; text-anchor:middle; " id="Pyr" y="487.0" x="764.0"  >
+Pyr</text>
+<circle cy="896.0" cx="1050.0" r="6.5" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,0,0); " id="G1P"  />
+<text style="font-size:5; text-anchor:middle; " id="G1P" y="896.0" x="1050.0"  >
+G1P</text>
+<circle cy="714.0" cx="612.0" r="6.5" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,0,0); " id="Glyc3P"  />
+<text style="font-size:5; text-anchor:middle; " id="Glyc3P" y="714.0" x="612.0"  >
+Glyc3P</text>
+<circle cy="362.0" cx="274.0" r="6.5" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,0,0); " id="Glc"  />
+<text style="font-size:5; text-anchor:middle; " id="Glc" y="362.0" x="274.0"  >
+Glc</text>
+<circle cy="683.0" cx="127.0" r="6.5" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,0,0); " id="Glc_ac"  />
+<text style="font-size:5; text-anchor:middle; " id="Glc_ac" y="683.0" x="127.0"  >
+Glc_ac</text>
+<circle cy="623.0" cx="614.0" r="6.5" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,0,0); " id="UDP"  />
+<text style="font-size:5; text-anchor:middle; " id="UDP" y="623.0" x="614.0"  >
+UDP</text>
+<circle cy="494.0" cx="657.0" r="6.5" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,0,0); " id="DAG"  />
+<text style="font-size:5; text-anchor:middle; " id="DAG" y="494.0" x="657.0"  >
+DAG</text>
+<circle cy="896.0" cx="681.0" r="6.5" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,0,0); " id="NADPH"  />
+<text style="font-size:5; text-anchor:middle; " id="NADPH" y="896.0" x="681.0"  >
+NADPH</text>
+<circle cy="556.0" cx="1021.0" r="6.5" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,0,0); " id="Cit_ac"  />
+<text style="font-size:5; text-anchor:middle; " id="Cit_ac" y="556.0" x="1021.0"  >
+Cit_ac</text>
+<circle cy="158.0" cx="311.0" r="6.5" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,0,0); " id="Suc_in"  />
+<text style="font-size:5; text-anchor:middle; " id="Suc_in" y="158.0" x="311.0"  >
+Suc_in</text>
+<circle cy="734.0" cx="184.0" r="6.5" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,0,0); " id="AMP"  />
+<text style="font-size:5; text-anchor:middle; " id="AMP" y="734.0" x="184.0"  >
+AMP</text>
+<circle cy="595.0" cx="605.0" r="6.5" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,0,0); " id="FAD"  />
+<text style="font-size:5; text-anchor:middle; " id="FAD" y="595.0" x="605.0"  >
+FAD</text>
+<circle cy="476.0" cx="332.0" r="6.5" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,0,0); " id="UTP"  />
+<text style="font-size:5; text-anchor:middle; " id="UTP" y="476.0" x="332.0"  >
+UTP</text>
+<circle cy="647.0" cx="724.0" r="6.5" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,0,0); " id="Glu_ac"  />
+<text style="font-size:5; text-anchor:middle; " id="Glu_ac" y="647.0" x="724.0"  >
+Glu_ac</text>
+<circle cy="496.0" cx="162.0" r="6.5" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,0,0); " id="H2O"  />
+<text style="font-size:5; text-anchor:middle; " id="H2O" y="496.0" x="162.0"  >
+H2O</text>
+<circle cy="487.0" cx="933.0" r="6.5" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,0,0); " id="Gln_in"  />
+<text style="font-size:5; text-anchor:middle; " id="Gln_in" y="487.0" x="933.0"  >
+Gln_in</text>
+<circle cy="877.0" cx="310.0" r="6.5" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,0,0); " id="STARCH"  />
+<text style="font-size:5; text-anchor:middle; " id="STARCH" y="877.0" x="310.0"  >
+STARCH</text>
+<circle cy="910.0" cx="517.0" r="6.5" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,0,0); " id="FADH2"  />
+<text style="font-size:5; text-anchor:middle; " id="FADH2" y="910.0" x="517.0"  >
+FADH2</text>
+<circle cy="872.0" cx="198.0" r="6.5" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,0,0); " id="CW"  />
+<text style="font-size:5; text-anchor:middle; " id="CW" y="872.0" x="198.0"  >
+CW</text>
+<circle cy="741.0" cx="481.0" r="6.5" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,0,0); " id="PROTEIN"  />
+<text style="font-size:5; text-anchor:middle; " id="PROTEIN" y="741.0" x="481.0"  >
+PROTEIN</text>
+<circle cy="276.0" cx="290.0" r="6.5" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,0,0); " id="Asp_ac"  />
+<text style="font-size:5; text-anchor:middle; " id="Asp_ac" y="276.0" x="290.0"  >
+Asp_ac</text>
+<circle cy="1046.0" cx="720.0" r="6.5" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,0,0); " id="NADH"  />
+<text style="font-size:5; text-anchor:middle; " id="NADH" y="1046.0" x="720.0"  >
+NADH</text>
+<circle cy="897.0" cx="868.0" r="6.5" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,0,0); " id="NH4"  />
+<text style="font-size:5; text-anchor:middle; " id="NH4" y="897.0" x="868.0"  >
+NH4</text>
+<circle cy="327.0" cx="379.0" r="6.5" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,0,0); " id="Fru_ac"  />
+<text style="font-size:5; text-anchor:middle; " id="Fru_ac" y="327.0" x="379.0"  >
+Fru_ac</text>
+<circle cy="815.0" cx="436.0" r="6.5" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,0,0); " id="ATP"  />
+<text style="font-size:5; text-anchor:middle; " id="ATP" y="815.0" x="436.0"  >
+ATP</text>
+<circle cy="640.0" cx="475.0" r="6.5" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,0,0); " id="Pi"  />
+<text style="font-size:5; text-anchor:middle; " id="Pi" y="640.0" x="475.0"  >
+Pi</text>
+<circle cy="570.0" cx="162.0" r="6.5" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,0,0); " id="NADP"  />
+<text style="font-size:5; text-anchor:middle; " id="NADP" y="570.0" x="162.0"  >
+NADP</text>
+<circle cy="1030.0" cx="996.0" r="6.5" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,0,0); " id="PPi"  />
+<text style="font-size:5; text-anchor:middle; " id="PPi" y="1030.0" x="996.0"  >
+PPi</text>
+<circle cy="444.0" cx="603.0" r="6.5" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,0,0); " id="Ala_ac"  />
+<text style="font-size:5; text-anchor:middle; " id="Ala_ac" y="444.0" x="603.0"  >
+Ala_ac</text>
+<circle cy="646.0" cx="890.0" r="6.5" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,0,0); " id="ADP"  />
+<text style="font-size:5; text-anchor:middle; " id="ADP" y="646.0" x="890.0"  >
+ADP</text>
+<circle cy="716.0" cx="60.0" r="6.5" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,0,0); " id="NAD"  />
+<text style="font-size:5; text-anchor:middle; " id="NAD" y="716.0" x="60.0"  >
+NAD</text>
+<circle cy="750.0" cx="519.0" r="6.5" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,0,0); " id="NO3"  />
+<text style="font-size:5; text-anchor:middle; " id="NO3" y="750.0" x="519.0"  >
+NO3</text>
+<circle cy="320.0" cx="586.0" r="6.5" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,0,0); " id="Suc_ac"  />
+<text style="font-size:5; text-anchor:middle; " id="Suc_ac" y="320.0" x="586.0"  >
+Suc_ac</text>
+<circle cy="986.0" cx="118.0" r="6.5" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,0,0); " id="Mal_ac"  />
+<text style="font-size:5; text-anchor:middle; " id="Mal_ac" y="986.0" x="118.0"  >
+Mal_ac</text>
+</svg>

@@ -1,0 +1,240 @@
+<svg contentScriptType="text/ecmascript" width="1116.0" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify" contentStyleType="text/css" height="1087.0" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" version="1.1">
+<rect x="-266.5" width="1116.0" id="glasspane" y="-509.5" height="1087.0" style="stroke-width:0; fill:none;pointer-events:fill; "/>
+<line source="ATP" x1="106.0" x2="1016.0" y1="961.0" y2="409.0" style="stroke:rgb(0,0,0); stroke-width:0.5; " target="ada"/>
+<line source="ada" x1="1016.0" x2="885.0" y1="409.0" y2="304.0" style="stroke:rgb(0,0,0); stroke-width:0.5; " target="HX"/>
+<line source="Ade" x1="226.0" x2="385.0" y1="798.0" y2="168.0" style="stroke:rgb(0,0,0); stroke-width:0.5; " target="ade"/>
+<line source="dATP" x1="902.0" x2="398.0" y1="366.0" y2="106.0" style="stroke:rgb(0,0,0); stroke-width:0.5; " target="adna"/>
+<line source="adna" x1="398.0" x2="76.0" y1="106.0" y2="308.0" style="stroke:rgb(0,0,0); stroke-width:0.5; " target="DNA"/>
+<line source="ATP" x1="106.0" x2="532.0" y1="961.0" y2="111.0" style="stroke:rgb(0,0,0); stroke-width:0.5; " target="adrnr"/>
+<line source="adrnr" x1="532.0" x2="902.0" y1="111.0" y2="366.0" style="stroke:rgb(0,0,0); stroke-width:0.5; " target="dATP"/>
+<line source="ATP" x1="106.0" x2="255.0" y1="961.0" y2="859.0" style="stroke:rgb(0,0,0); stroke-width:0.5; " target="ampd"/>
+<line source="ampd" x1="255.0" x2="782.0" y1="859.0" y2="540.0" style="stroke:rgb(0,0,0); stroke-width:0.5; " target="IMP"/>
+<line source="Ade" x1="226.0" x2="989.0" y1="798.0" y2="236.0" style="stroke:rgb(0,0,0); stroke-width:0.5; " target="aprt"/>
+<line source="PRPP" x1="713.0" x2="989.0" y1="688.0" y2="236.0" style="stroke:rgb(0,0,0); stroke-width:0.5; " target="aprt"/>
+<line source="aprt" x1="989.0" x2="106.0" y1="236.0" y2="961.0" style="stroke:rgb(0,0,0); stroke-width:0.5; " target="ATP"/>
+<line source="ATP" x1="106.0" x2="813.0" y1="961.0" y2="548.0" style="stroke:rgb(0,0,0); stroke-width:0.5; " target="arna"/>
+<line source="arna" x1="813.0" x2="142.0" y1="548.0" y2="1037.0" style="stroke:rgb(0,0,0); stroke-width:0.5; " target="RNA"/>
+<line source="IMP" x1="782.0" x2="376.0" y1="540.0" y2="533.0" style="stroke:rgb(0,0,0); stroke-width:0.5; " target="asuc"/>
+<line source="asuc" x1="376.0" x2="968.0" y1="533.0" y2="925.0" style="stroke:rgb(0,0,0); stroke-width:0.5; " target="SAMP"/>
+<line source="SAMP" x1="968.0" x2="756.0" y1="925.0" y2="174.0" style="stroke:rgb(0,0,0); stroke-width:0.5; " target="asli"/>
+<line source="asli" x1="756.0" x2="106.0" y1="174.0" y2="961.0" style="stroke:rgb(0,0,0); stroke-width:0.5; " target="ATP"/>
+<line source="dATP" x1="902.0" x2="1066.0" y1="366.0" y2="134.0" style="stroke:rgb(0,0,0); stroke-width:0.5; " target="dada"/>
+<line source="dada" x1="1066.0" x2="885.0" y1="134.0" y2="304.0" style="stroke:rgb(0,0,0); stroke-width:0.5; " target="HX"/>
+<line source="PRPP" x1="713.0" x2="538.0" y1="688.0" y2="845.0" style="stroke:rgb(0,0,0); stroke-width:0.5; " target="den"/>
+<line source="den" x1="538.0" x2="782.0" y1="845.0" y2="540.0" style="stroke:rgb(0,0,0); stroke-width:0.5; " target="IMP"/>
+<line source="dGTP" x1="842.0" x2="959.0" y1="542.0" y2="537.0" style="stroke:rgb(0,0,0); stroke-width:0.5; " target="dgnuc"/>
+<line source="dgnuc" x1="959.0" x2="876.0" y1="537.0" y2="732.0" style="stroke:rgb(0,0,0); stroke-width:0.5; " target="Gua"/>
+<line source="DNA" x1="76.0" x2="396.0" y1="308.0" y2="936.0" style="stroke:rgb(0,0,0); stroke-width:0.5; " target="dnaa"/>
+<line source="dnaa" x1="396.0" x2="902.0" y1="936.0" y2="366.0" style="stroke:rgb(0,0,0); stroke-width:0.5; " target="dATP"/>
+<line source="DNA" x1="76.0" x2="661.0" y1="308.0" y2="352.0" style="stroke:rgb(0,0,0); stroke-width:0.5; " target="dnag"/>
+<line source="dnag" x1="661.0" x2="842.0" y1="352.0" y2="542.0" style="stroke:rgb(0,0,0); stroke-width:0.5; " target="dGTP"/>
+<line source="dGTP" x1="842.0" x2="977.0" y1="542.0" y2="613.0" style="stroke:rgb(0,0,0); stroke-width:0.5; " target="gdna"/>
+<line source="gdna" x1="977.0" x2="76.0" y1="613.0" y2="308.0" style="stroke:rgb(0,0,0); stroke-width:0.5; " target="DNA"/>
+<line source="GTP" x1="225.0" x2="972.0" y1="612.0" y2="251.0" style="stroke:rgb(0,0,0); stroke-width:0.5; " target="gdrnr"/>
+<line source="gdrnr" x1="972.0" x2="842.0" y1="251.0" y2="542.0" style="stroke:rgb(0,0,0); stroke-width:0.5; " target="dGTP"/>
+<line source="GTP" x1="225.0" x2="356.0" y1="612.0" y2="920.0" style="stroke:rgb(0,0,0); stroke-width:0.5; " target="gmpr"/>
+<line source="gmpr" x1="356.0" x2="782.0" y1="920.0" y2="540.0" style="stroke:rgb(0,0,0); stroke-width:0.5; " target="IMP"/>
+<line source="XMP" x1="813.0" x2="1001.0" y1="109.0" y2="63.0" style="stroke:rgb(0,0,0); stroke-width:0.5; " target="gmps"/>
+<line source="gmps" x1="1001.0" x2="225.0" y1="63.0" y2="612.0" style="stroke:rgb(0,0,0); stroke-width:0.5; " target="GTP"/>
+<line source="GTP" x1="225.0" x2="138.0" y1="612.0" y2="611.0" style="stroke:rgb(0,0,0); stroke-width:0.5; " target="gnuc"/>
+<line source="gnuc" x1="138.0" x2="876.0" y1="611.0" y2="732.0" style="stroke:rgb(0,0,0); stroke-width:0.5; " target="Gua"/>
+<line source="Gua" x1="876.0" x2="472.0" y1="732.0" y2="31.0" style="stroke:rgb(0,0,0); stroke-width:0.5; " target="gprt"/>
+<line source="PRPP" x1="713.0" x2="472.0" y1="688.0" y2="31.0" style="stroke:rgb(0,0,0); stroke-width:0.5; " target="gprt"/>
+<line source="gprt" x1="472.0" x2="225.0" y1="31.0" y2="612.0" style="stroke:rgb(0,0,0); stroke-width:0.5; " target="GTP"/>
+<line source="GTP" x1="225.0" x2="399.0" y1="612.0" y2="343.0" style="stroke:rgb(0,0,0); stroke-width:0.5; " target="grna"/>
+<line source="grna" x1="399.0" x2="142.0" y1="343.0" y2="1037.0" style="stroke:rgb(0,0,0); stroke-width:0.5; " target="RNA"/>
+<line source="Gua" x1="876.0" x2="841.0" y1="732.0" y2="311.0" style="stroke:rgb(0,0,0); stroke-width:0.5; " target="gua"/>
+<line source="gua" x1="841.0" x2="812.0" y1="311.0" y2="301.0" style="stroke:rgb(0,0,0); stroke-width:0.5; " target="Xa"/>
+<line source="HX" x1="885.0" x2="795.0" y1="304.0" y2="138.0" style="stroke:rgb(0,0,0); stroke-width:0.5; " target="hprt"/>
+<line source="PRPP" x1="713.0" x2="795.0" y1="688.0" y2="138.0" style="stroke:rgb(0,0,0); stroke-width:0.5; " target="hprt"/>
+<line source="hprt" x1="795.0" x2="782.0" y1="138.0" y2="540.0" style="stroke:rgb(0,0,0); stroke-width:0.5; " target="IMP"/>
+<line source="HX" x1="885.0" x2="346.0" y1="304.0" y2="91.0" style="stroke:rgb(0,0,0); stroke-width:0.5; " target="hx"/>
+<line source="HX" x1="885.0" x2="228.0" y1="304.0" y2="477.0" style="stroke:rgb(0,0,0); stroke-width:0.5; " target="hxd"/>
+<line source="hxd" x1="228.0" x2="812.0" y1="477.0" y2="301.0" style="stroke:rgb(0,0,0); stroke-width:0.5; " target="Xa"/>
+<line source="IMP" x1="782.0" x2="351.0" y1="540.0" y2="38.0" style="stroke:rgb(0,0,0); stroke-width:0.5; " target="impd"/>
+<line source="impd" x1="351.0" x2="813.0" y1="38.0" y2="109.0" style="stroke:rgb(0,0,0); stroke-width:0.5; " target="XMP"/>
+<line source="IMP" x1="782.0" x2="742.0" y1="540.0" y2="717.0" style="stroke:rgb(0,0,0); stroke-width:0.5; " target="inuc"/>
+<line source="inuc" x1="742.0" x2="885.0" y1="717.0" y2="304.0" style="stroke:rgb(0,0,0); stroke-width:0.5; " target="HX"/>
+<line source="ATP" x1="106.0" x2="579.0" y1="961.0" y2="134.0" style="stroke:rgb(0,0,0); stroke-width:0.5; " target="mat"/>
+<line source="mat" x1="579.0" x2="604.0" y1="134.0" y2="142.0" style="stroke:rgb(0,0,0); stroke-width:0.5; " target="SAM"/>
+<line source="SAM" x1="604.0" x2="363.0" y1="142.0" y2="34.0" style="stroke:rgb(0,0,0); stroke-width:0.5; " target="polyam"/>
+<line source="polyam" x1="363.0" x2="226.0" y1="34.0" y2="798.0" style="stroke:rgb(0,0,0); stroke-width:0.5; " target="Ade"/>
+<line source="R5P" x1="1048.0" x2="627.0" y1="515.0" y2="166.0" style="stroke:rgb(0,0,0); stroke-width:0.5; " target="prpps"/>
+<line source="prpps" x1="627.0" x2="713.0" y1="166.0" y2="688.0" style="stroke:rgb(0,0,0); stroke-width:0.5; " target="PRPP"/>
+<line source="PRPP" x1="713.0" x2="367.0" y1="688.0" y2="339.0" style="stroke:rgb(0,0,0); stroke-width:0.5; " target="pyr"/>
+<line source="RNA" x1="142.0" x2="185.0" y1="1037.0" y2="526.0" style="stroke:rgb(0,0,0); stroke-width:0.5; " target="rnaa"/>
+<line source="rnaa" x1="185.0" x2="106.0" y1="526.0" y2="961.0" style="stroke:rgb(0,0,0); stroke-width:0.5; " target="ATP"/>
+<line source="RNA" x1="142.0" x2="539.0" y1="1037.0" y2="674.0" style="stroke:rgb(0,0,0); stroke-width:0.5; " target="rnag"/>
+<line source="rnag" x1="539.0" x2="225.0" y1="674.0" y2="612.0" style="stroke:rgb(0,0,0); stroke-width:0.5; " target="GTP"/>
+<line source="SAM" x1="604.0" x2="465.0" y1="142.0" y2="95.0" style="stroke:rgb(0,0,0); stroke-width:0.5; " target="trans"/>
+<line source="trans" x1="465.0" x2="106.0" y1="95.0" y2="961.0" style="stroke:rgb(0,0,0); stroke-width:0.5; " target="ATP"/>
+<line source="UA" x1="347.0" x2="275.0" y1="557.0" y2="627.0" style="stroke:rgb(0,0,0); stroke-width:0.5; " target="ua"/>
+<line source="Xa" x1="812.0" x2="921.0" y1="301.0" y2="558.0" style="stroke:rgb(0,0,0); stroke-width:0.5; " target="x"/>
+<line source="Xa" x1="812.0" x2="819.0" y1="301.0" y2="624.0" style="stroke:rgb(0,0,0); stroke-width:0.5; " target="xd"/>
+<line source="xd" x1="819.0" x2="347.0" y1="624.0" y2="557.0" style="stroke:rgb(0,0,0); stroke-width:0.5; " target="UA"/>
+<rect x="1009.5" width="13.0" id="ada" y="402.5" height="13.0" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,221,0); "/>
+<text x="1016.0" id="ada" y="409.0" style="font-size:7; text-anchor:middle; fill:rgb(0,0,0); ">
+ada</text>
+<rect x="378.5" width="13.0" id="ade" y="161.5" height="13.0" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,221,0); "/>
+<text x="385.0" id="ade" y="168.0" style="font-size:7; text-anchor:middle; fill:rgb(0,0,0); ">
+ade</text>
+<rect x="391.5" width="13.0" id="adna" y="99.5" height="13.0" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,221,0); "/>
+<text x="398.0" id="adna" y="106.0" style="font-size:7; text-anchor:middle; fill:rgb(0,0,0); ">
+adna</text>
+<rect x="525.5" width="13.0" id="adrnr" y="104.5" height="13.0" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,221,0); "/>
+<text x="532.0" id="adrnr" y="111.0" style="font-size:7; text-anchor:middle; fill:rgb(0,0,0); ">
+adrnr</text>
+<rect x="248.5" width="13.0" id="ampd" y="852.5" height="13.0" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,221,0); "/>
+<text x="255.0" id="ampd" y="859.0" style="font-size:7; text-anchor:middle; fill:rgb(0,0,0); ">
+ampd</text>
+<rect x="982.5" width="13.0" id="aprt" y="229.5" height="13.0" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,221,0); "/>
+<text x="989.0" id="aprt" y="236.0" style="font-size:7; text-anchor:middle; fill:rgb(0,0,0); ">
+aprt</text>
+<rect x="806.5" width="13.0" id="arna" y="541.5" height="13.0" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,221,0); "/>
+<text x="813.0" id="arna" y="548.0" style="font-size:7; text-anchor:middle; fill:rgb(0,0,0); ">
+arna</text>
+<rect x="369.5" width="13.0" id="asuc" y="526.5" height="13.0" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,221,0); "/>
+<text x="376.0" id="asuc" y="533.0" style="font-size:7; text-anchor:middle; fill:rgb(0,0,0); ">
+asuc</text>
+<rect x="749.5" width="13.0" id="asli" y="167.5" height="13.0" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,221,0); "/>
+<text x="756.0" id="asli" y="174.0" style="font-size:7; text-anchor:middle; fill:rgb(0,0,0); ">
+asli</text>
+<rect x="1059.5" width="13.0" id="dada" y="127.5" height="13.0" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,221,0); "/>
+<text x="1066.0" id="dada" y="134.0" style="font-size:7; text-anchor:middle; fill:rgb(0,0,0); ">
+dada</text>
+<rect x="531.5" width="13.0" id="den" y="838.5" height="13.0" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,221,0); "/>
+<text x="538.0" id="den" y="845.0" style="font-size:7; text-anchor:middle; fill:rgb(0,0,0); ">
+den</text>
+<rect x="952.5" width="13.0" id="dgnuc" y="530.5" height="13.0" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,221,0); "/>
+<text x="959.0" id="dgnuc" y="537.0" style="font-size:7; text-anchor:middle; fill:rgb(0,0,0); ">
+dgnuc</text>
+<rect x="389.5" width="13.0" id="dnaa" y="929.5" height="13.0" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,221,0); "/>
+<text x="396.0" id="dnaa" y="936.0" style="font-size:7; text-anchor:middle; fill:rgb(0,0,0); ">
+dnaa</text>
+<rect x="654.5" width="13.0" id="dnag" y="345.5" height="13.0" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,221,0); "/>
+<text x="661.0" id="dnag" y="352.0" style="font-size:7; text-anchor:middle; fill:rgb(0,0,0); ">
+dnag</text>
+<rect x="970.5" width="13.0" id="gdna" y="606.5" height="13.0" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,221,0); "/>
+<text x="977.0" id="gdna" y="613.0" style="font-size:7; text-anchor:middle; fill:rgb(0,0,0); ">
+gdna</text>
+<rect x="965.5" width="13.0" id="gdrnr" y="244.5" height="13.0" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,221,0); "/>
+<text x="972.0" id="gdrnr" y="251.0" style="font-size:7; text-anchor:middle; fill:rgb(0,0,0); ">
+gdrnr</text>
+<rect x="349.5" width="13.0" id="gmpr" y="913.5" height="13.0" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,221,0); "/>
+<text x="356.0" id="gmpr" y="920.0" style="font-size:7; text-anchor:middle; fill:rgb(0,0,0); ">
+gmpr</text>
+<rect x="994.5" width="13.0" id="gmps" y="56.5" height="13.0" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,221,0); "/>
+<text x="1001.0" id="gmps" y="63.0" style="font-size:7; text-anchor:middle; fill:rgb(0,0,0); ">
+gmps</text>
+<rect x="131.5" width="13.0" id="gnuc" y="604.5" height="13.0" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,221,0); "/>
+<text x="138.0" id="gnuc" y="611.0" style="font-size:7; text-anchor:middle; fill:rgb(0,0,0); ">
+gnuc</text>
+<rect x="465.5" width="13.0" id="gprt" y="24.5" height="13.0" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,221,0); "/>
+<text x="472.0" id="gprt" y="31.0" style="font-size:7; text-anchor:middle; fill:rgb(0,0,0); ">
+gprt</text>
+<rect x="392.5" width="13.0" id="grna" y="336.5" height="13.0" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,221,0); "/>
+<text x="399.0" id="grna" y="343.0" style="font-size:7; text-anchor:middle; fill:rgb(0,0,0); ">
+grna</text>
+<rect x="834.5" width="13.0" id="gua" y="304.5" height="13.0" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,221,0); "/>
+<text x="841.0" id="gua" y="311.0" style="font-size:7; text-anchor:middle; fill:rgb(0,0,0); ">
+gua</text>
+<rect x="788.5" width="13.0" id="hprt" y="131.5" height="13.0" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,221,0); "/>
+<text x="795.0" id="hprt" y="138.0" style="font-size:7; text-anchor:middle; fill:rgb(0,0,0); ">
+hprt</text>
+<rect x="339.5" width="13.0" id="hx" y="84.5" height="13.0" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,221,0); "/>
+<text x="346.0" id="hx" y="91.0" style="font-size:7; text-anchor:middle; fill:rgb(0,0,0); ">
+hx</text>
+<rect x="221.5" width="13.0" id="hxd" y="470.5" height="13.0" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,221,0); "/>
+<text x="228.0" id="hxd" y="477.0" style="font-size:7; text-anchor:middle; fill:rgb(0,0,0); ">
+hxd</text>
+<rect x="344.5" width="13.0" id="impd" y="31.5" height="13.0" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,221,0); "/>
+<text x="351.0" id="impd" y="38.0" style="font-size:7; text-anchor:middle; fill:rgb(0,0,0); ">
+impd</text>
+<rect x="735.5" width="13.0" id="inuc" y="710.5" height="13.0" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,221,0); "/>
+<text x="742.0" id="inuc" y="717.0" style="font-size:7; text-anchor:middle; fill:rgb(0,0,0); ">
+inuc</text>
+<rect x="572.5" width="13.0" id="mat" y="127.5" height="13.0" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,221,0); "/>
+<text x="579.0" id="mat" y="134.0" style="font-size:7; text-anchor:middle; fill:rgb(0,0,0); ">
+mat</text>
+<rect x="356.5" width="13.0" id="polyam" y="27.5" height="13.0" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,221,0); "/>
+<text x="363.0" id="polyam" y="34.0" style="font-size:7; text-anchor:middle; fill:rgb(0,0,0); ">
+polyam</text>
+<rect x="620.5" width="13.0" id="prpps" y="159.5" height="13.0" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,221,0); "/>
+<text x="627.0" id="prpps" y="166.0" style="font-size:7; text-anchor:middle; fill:rgb(0,0,0); ">
+prpps</text>
+<rect x="360.5" width="13.0" id="pyr" y="332.5" height="13.0" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,221,0); "/>
+<text x="367.0" id="pyr" y="339.0" style="font-size:7; text-anchor:middle; fill:rgb(0,0,0); ">
+pyr</text>
+<rect x="178.5" width="13.0" id="rnaa" y="519.5" height="13.0" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,221,0); "/>
+<text x="185.0" id="rnaa" y="526.0" style="font-size:7; text-anchor:middle; fill:rgb(0,0,0); ">
+rnaa</text>
+<rect x="532.5" width="13.0" id="rnag" y="667.5" height="13.0" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,221,0); "/>
+<text x="539.0" id="rnag" y="674.0" style="font-size:7; text-anchor:middle; fill:rgb(0,0,0); ">
+rnag</text>
+<rect x="458.5" width="13.0" id="trans" y="88.5" height="13.0" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,221,0); "/>
+<text x="465.0" id="trans" y="95.0" style="font-size:7; text-anchor:middle; fill:rgb(0,0,0); ">
+trans</text>
+<rect x="268.5" width="13.0" id="ua" y="620.5" height="13.0" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,221,0); "/>
+<text x="275.0" id="ua" y="627.0" style="font-size:7; text-anchor:middle; fill:rgb(0,0,0); ">
+ua</text>
+<rect x="914.5" width="13.0" id="x" y="551.5" height="13.0" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,221,0); "/>
+<text x="921.0" id="x" y="558.0" style="font-size:7; text-anchor:middle; fill:rgb(0,0,0); ">
+x</text>
+<rect x="812.5" width="13.0" id="xd" y="617.5" height="13.0" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,221,0); "/>
+<text x="819.0" id="xd" y="624.0" style="font-size:7; text-anchor:middle; fill:rgb(0,0,0); ">
+xd</text>
+<circle r="6.5" id="PRPP" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,0,185); " cx="713.0" cy="688.0"/>
+<text x="713.0" id="PRPP" y="688.0" style="font-size:7; text-anchor:middle; fill:rgb(0,0,0); ">
+PRPP</text>
+<circle r="6.5" id="IMP" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,0,185); " cx="782.0" cy="540.0"/>
+<text x="782.0" id="IMP" y="540.0" style="font-size:7; text-anchor:middle; fill:rgb(0,0,0); ">
+IMP</text>
+<circle r="6.5" id="SAMP" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,0,185); " cx="968.0" cy="925.0"/>
+<text x="968.0" id="SAMP" y="925.0" style="font-size:7; text-anchor:middle; fill:rgb(0,0,0); ">
+SAMP</text>
+<circle r="6.5" id="ATP" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,0,185); " cx="106.0" cy="961.0"/>
+<text x="106.0" id="ATP" y="961.0" style="font-size:7; text-anchor:middle; fill:rgb(0,0,0); ">
+ATP</text>
+<circle r="6.5" id="SAM" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,0,185); " cx="604.0" cy="142.0"/>
+<text x="604.0" id="SAM" y="142.0" style="font-size:7; text-anchor:middle; fill:rgb(0,0,0); ">
+SAM</text>
+<circle r="6.5" id="Ade" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,0,185); " cx="226.0" cy="798.0"/>
+<text x="226.0" id="Ade" y="798.0" style="font-size:7; text-anchor:middle; fill:rgb(0,0,0); ">
+Ade</text>
+<circle r="6.5" id="XMP" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,0,185); " cx="813.0" cy="109.0"/>
+<text x="813.0" id="XMP" y="109.0" style="font-size:7; text-anchor:middle; fill:rgb(0,0,0); ">
+XMP</text>
+<circle r="6.5" id="GTP" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,0,185); " cx="225.0" cy="612.0"/>
+<text x="225.0" id="GTP" y="612.0" style="font-size:7; text-anchor:middle; fill:rgb(0,0,0); ">
+GTP</text>
+<circle r="6.5" id="dATP" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,0,185); " cx="902.0" cy="366.0"/>
+<text x="902.0" id="dATP" y="366.0" style="font-size:7; text-anchor:middle; fill:rgb(0,0,0); ">
+dATP</text>
+<circle r="6.5" id="dGTP" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,0,185); " cx="842.0" cy="542.0"/>
+<text x="842.0" id="dGTP" y="542.0" style="font-size:7; text-anchor:middle; fill:rgb(0,0,0); ">
+dGTP</text>
+<circle r="6.5" id="RNA" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,0,185); " cx="142.0" cy="1037.0"/>
+<text x="142.0" id="RNA" y="1037.0" style="font-size:7; text-anchor:middle; fill:rgb(0,0,0); ">
+RNA</text>
+<circle r="6.5" id="DNA" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,0,185); " cx="76.0" cy="308.0"/>
+<text x="76.0" id="DNA" y="308.0" style="font-size:7; text-anchor:middle; fill:rgb(0,0,0); ">
+DNA</text>
+<circle r="6.5" id="HX" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,0,185); " cx="885.0" cy="304.0"/>
+<text x="885.0" id="HX" y="304.0" style="font-size:7; text-anchor:middle; fill:rgb(0,0,0); ">
+HX</text>
+<circle r="6.5" id="Xa" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,0,185); " cx="812.0" cy="301.0"/>
+<text x="812.0" id="Xa" y="301.0" style="font-size:7; text-anchor:middle; fill:rgb(0,0,0); ">
+Xa</text>
+<circle r="6.5" id="Gua" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,0,185); " cx="876.0" cy="732.0"/>
+<text x="876.0" id="Gua" y="732.0" style="font-size:7; text-anchor:middle; fill:rgb(0,0,0); ">
+Gua</text>
+<circle r="6.5" id="UA" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,0,185); " cx="347.0" cy="557.0"/>
+<text x="347.0" id="UA" y="557.0" style="font-size:7; text-anchor:middle; fill:rgb(0,0,0); ">
+UA</text>
+<circle r="6.5" id="R5P" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,0,185); " cx="1048.0" cy="515.0"/>
+<text x="1048.0" id="R5P" y="515.0" style="font-size:7; text-anchor:middle; fill:rgb(0,0,0); ">
+R5P</text>
+<circle r="6.5" id="Pi" style="stroke:rgb(0,0,0); stroke-width:0.0; fill:rgb(255,0,185); " cx="295.0" cy="65.0"/>
+<text x="295.0" id="Pi" y="65.0" style="font-size:7; text-anchor:middle; fill:rgb(0,0,0); ">
+Pi</text>
+</svg>

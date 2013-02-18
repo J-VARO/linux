@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/cpr_metabo/!svn/ver/216/elo_debut/tulip/lib64/lib/tulip
+END
+libRandom-4.2.0.so
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cpr_metabo/!svn/ver/199/elo_debut/tulip/lib64/lib/tulip/libRandom-4.2.0.so
+END
+libtulip-ogdf-4.2.so
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cpr_metabo/!svn/ver/216/elo_debut/tulip/lib64/lib/tulip/libtulip-ogdf-4.2.so
+END
+libogdfgemfrick-4.2.0.so
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cpr_metabo/!svn/ver/216/elo_debut/tulip/lib64/lib/tulip/libogdfgemfrick-4.2.0.so
+END
+libCircular-4.2.0.so
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cpr_metabo/!svn/ver/199/elo_debut/tulip/lib64/lib/tulip/libCircular-4.2.0.so
+END
+libGLEW.so.1.7
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/cpr_metabo/!svn/ver/143/elo_debut/tulip/lib64/lib/tulip/libGLEW.so.1.7
+END
+libogdfballoon-4.2.0.so
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cpr_metabo/!svn/ver/199/elo_debut/tulip/lib64/lib/tulip/libogdfballoon-4.2.0.so
+END

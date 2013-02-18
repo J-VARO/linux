@@ -1,0 +1,42 @@
+package controler.reactions;
+
+import javax.swing.JTable;
+import javax.swing.event.CellEditorListener;
+import javax.swing.event.ChangeEvent;
+
+import controler.MainControler;
+
+import view.ReactionsPanel;
+
+public class ReactionsTableCellEditorListener implements CellEditorListener {
+
+	private ReactionsPanel panel;
+	private JTable table;
+	private MainControler controler;
+
+	public ReactionsTableCellEditorListener(MainControler controler,
+			ReactionsPanel reactionsPanel) {
+		this.panel = reactionsPanel;
+		this.controler = controler;
+		this.table = reactionsPanel.getTable();
+	}
+
+	public void editingCanceled(ChangeEvent arg0) {
+
+	}
+
+	public void editingStopped(ChangeEvent e) {
+
+		String reacName = (String) table.getValueAt(table.getSelectedRow(), 0);
+
+		controler.setReactionReversible(
+				reacName,
+				(Boolean) table.getValueAt(table.getSelectedRow(),
+						table.getSelectedColumn()));
+
+		table.clearSelection();
+		panel.setButtons();
+
+	}
+
+}

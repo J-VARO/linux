@@ -1,0 +1,13 @@
+package controler.externalPrograms;
+
+
+//manage external programs (regEfmtool)
+public interface ExternalProgramsHandler {
+
+	
+	
+	public void run();
+	
+	
+	public void display();
+}

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/cpr_metabo/!svn/ver/258/elo_debut/src/model
+END
+Metabolite.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/cpr_metabo/!svn/ver/232/elo_debut/src/model/Metabolite.java
+END
+ElementaryMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/cpr_metabo/!svn/ver/252/elo_debut/src/model/ElementaryMode.java
+END
+MetabolicNetwork.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/cpr_metabo/!svn/ver/247/elo_debut/src/model/MetabolicNetwork.java
+END
+Project.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/cpr_metabo/!svn/ver/181/elo_debut/src/model/Project.java
+END
+Reaction.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/cpr_metabo/!svn/ver/242/elo_debut/src/model/Reaction.java
+END
+MetabolicNetworkItf.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/cpr_metabo/!svn/ver/247/elo_debut/src/model/MetabolicNetworkItf.java
+END

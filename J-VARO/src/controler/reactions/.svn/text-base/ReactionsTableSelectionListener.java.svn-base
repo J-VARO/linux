@@ -1,0 +1,28 @@
+package controler.reactions;
+
+import javax.swing.JTable;
+import javax.swing.event.ListSelectionEvent;
+import javax.swing.event.ListSelectionListener;
+
+import controler.MainControler;
+
+import view.ReactionsPanel;
+
+public class ReactionsTableSelectionListener implements ListSelectionListener {
+	private ReactionsPanel panel;
+	private JTable table;
+
+	public ReactionsTableSelectionListener(ReactionsPanel reactionsPanel,
+			String col2, MainControler controler) {
+		this.panel = reactionsPanel;
+		this.table = reactionsPanel.getTable();
+	}
+
+	public void valueChanged(ListSelectionEvent e) {
+		if (!e.getValueIsAdjusting() && table.getSelectedRow() >= 0) {
+
+			panel.setButtons();
+		}
+
+	}
+}

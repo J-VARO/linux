@@ -1,0 +1,43 @@
+package controler.metabolites;
+
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+
+import javax.swing.JOptionPane;
+
+import controler.MainControler;
+
+import view.GeneralFrame;
+import view.popup.MetaboliteFrame;
+
+//Add metabolite when add button is clicked
+public class AddMetabListener implements ActionListener {
+
+	private MainControler controler;
+
+	public AddMetabListener(MainControler controler) {
+		this.controler = controler;
+
+	}
+
+	public void actionPerformed(ActionEvent arg0) {
+		MetaboliteFrame f = new MetaboliteFrame(
+				GeneralFrame.getInstance(controler), true, "", "");
+		
+		//if ok is pressed and metabolite name is not empty
+		//metabolite is added
+		if (f.okPressed() && !f.getName().equals("")) {
+			String name = controler.getNetwork().formatName(f.getName());
+			if (!controler.getNetwork().hasName(name)) {
+				controler.addMetabolite(name, f.getDescription(),
+						f.isInternal());
+				controler.notifyObservers();
+			} else {
+				JOptionPane.showMessageDialog(null,
+						"Another reaction or metabolite has the same name", "Error",
+						JOptionPane.ERROR_MESSAGE);
+			}
+
+		}
+	}
+}

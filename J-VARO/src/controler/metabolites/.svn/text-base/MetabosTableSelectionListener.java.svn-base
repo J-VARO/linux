@@ -1,0 +1,28 @@
+package controler.metabolites;
+
+import javax.swing.JTable;
+import javax.swing.event.ListSelectionEvent;
+import javax.swing.event.ListSelectionListener;
+
+import controler.MainControler;
+
+import view.MetabosPanel;
+
+//set the panel buttons depending on the selection of JTables
+public class MetabosTableSelectionListener implements ListSelectionListener {
+	private MetabosPanel panel;
+	private JTable table;
+
+	public MetabosTableSelectionListener(MetabosPanel metabosPanel,
+			String col2, MainControler controler) {
+		this.panel = metabosPanel;
+		this.table = metabosPanel.getTable();
+	}
+
+	public void valueChanged(ListSelectionEvent e) {
+		if (!e.getValueIsAdjusting() && table.getSelectedRow() >= 0) {
+			panel.setButtons();
+		}
+
+	}
+}

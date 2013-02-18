@@ -1,0 +1,337 @@
+<?xml version="1.0"?>
+<svg width="600" height="600" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+    <g transform="translate(300,300) scale(1,-1)">
+        <rect width="600" height="600" fill="white"/>
+        <g id="edges" desc="this is the group of edges">
+            <g id="0">
+                <path d="M 0,0 L -200,0" fill="none" stroke-width="0.5" stroke-opacity="0" stroke="rgb(0,0,0)"/>
+            </g>
+            <g id="1">
+                <path d="M 0,0 L 0,0" fill="none" stroke-width="0.5" stroke-opacity="0" stroke="rgb(0,0,0)"/>
+            </g>
+            <g id="2">
+                <path d="M 0,0 L 200,0" fill="none" stroke-width="0.5" stroke-opacity="0" stroke="rgb(0,0,0)"/>
+            </g>
+            <g id="3">
+                <path d="M 200,0 L 200,-186.667" fill="none" stroke-width="0.5" stroke-opacity="0" stroke="rgb(0,0,0)"/>
+            </g>
+            <g id="4">
+                <path d="M 200,0 L 200,-2.84217e-14" fill="none" stroke-width="0.5" stroke-opacity="0" stroke="rgb(0,0,0)"/>
+            </g>
+            <g id="5">
+                <path d="M 200,0 L 200,186.667" fill="none" stroke-width="0.5" stroke-opacity="0" stroke="rgb(0,0,0)"/>
+            </g>
+            <g id="6">
+                <path d="M 200,186.667 L 200,130.667" fill="none" stroke-width="0.5" stroke-opacity="0" stroke="rgb(0,0,0)"/>
+            </g>
+            <g id="7">
+                <path d="M 200,186.667 L 200,186.667" fill="none" stroke-width="0.5" stroke-opacity="0" stroke="rgb(0,0,0)"/>
+            </g>
+            <g id="8">
+                <path d="M 200,186.667 L 146.54,186.667" fill="none" stroke-width="0.5" stroke-opacity="0" stroke="rgb(0,0,0)"/>
+            </g>
+            <g id="9">
+                <path d="M 200,186.667 L 182.18,186.667" fill="none" stroke-width="0.5" stroke-opacity="0" stroke="rgb(0,0,0)"/>
+            </g>
+            <g id="10">
+                <path d="M 182.18,186.667 L 182.18,174.907" fill="none" stroke-width="0.5" stroke-opacity="0" stroke="rgb(0,0,0)"/>
+            </g>
+            <g id="11">
+                <path d="M 182.18,186.667 L 182.18,198.427" fill="none" stroke-width="0.5" stroke-opacity="0" stroke="rgb(0,0,0)"/>
+            </g>
+            <g id="12">
+                <path d="M 200,186.667 L 217.82,186.667" fill="none" stroke-width="0.5" stroke-opacity="0" stroke="rgb(0,0,0)"/>
+            </g>
+            <g id="13">
+                <path d="M 217.82,186.667 L 217.82,170.987" fill="none" stroke-width="0.5" stroke-opacity="0" stroke="rgb(0,0,0)"/>
+            </g>
+            <g id="14">
+                <path d="M 217.82,186.667 L 217.82,186.667" fill="none" stroke-width="0.5" stroke-opacity="0" stroke="rgb(0,0,0)"/>
+            </g>
+            <g id="15">
+                <path d="M 217.82,186.667 L 217.82,186.667" fill="none" stroke-width="0.5" stroke-opacity="0" stroke="rgb(0,0,0)"/>
+            </g>
+            <g id="16">
+                <path d="M 217.82,186.667 L 211.354,186.667" fill="none" stroke-width="0.5" stroke-opacity="0" stroke="rgb(0,0,0)"/>
+            </g>
+            <g id="17">
+                <path d="M 211.354,186.667 L 211.354,186.667" fill="none" stroke-width="0.5" stroke-opacity="0" stroke="rgb(0,0,0)"/>
+            </g>
+            <g id="18">
+                <path d="M 211.354,186.667 L 211.354,186.667" fill="none" stroke-width="0.5" stroke-opacity="0" stroke="rgb(0,0,0)"/>
+            </g>
+            <g id="19">
+                <path d="M 211.354,186.667 L 211.354,183.795" fill="none" stroke-width="0.5" stroke-opacity="0" stroke="rgb(0,0,0)"/>
+            </g>
+            <g id="20">
+                <path d="M 211.354,183.795 L 211.354,183.795" fill="none" stroke-width="0.5" stroke-opacity="0" stroke="rgb(0,0,0)"/>
+            </g>
+            <g id="21">
+                <path d="M 211.354,186.667 L 211.354,189.539" fill="none" stroke-width="0.5" stroke-opacity="0" stroke="rgb(0,0,0)"/>
+            </g>
+            <g id="22">
+                <path d="M 217.82,186.667 L 224.286,186.667" fill="none" stroke-width="0.5" stroke-opacity="0" stroke="rgb(0,0,0)"/>
+            </g>
+            <g id="23">
+                <path d="M 217.82,186.667 L 217.82,202.347" fill="none" stroke-width="0.5" stroke-opacity="0" stroke="rgb(0,0,0)"/>
+            </g>
+            <g id="24">
+                <path d="M 217.82,202.347 L 211.084,202.347" fill="none" stroke-width="0.5" stroke-opacity="0" stroke="rgb(0,0,0)"/>
+            </g>
+            <g id="25">
+                <path d="M 211.084,202.347 L 211.084,202.347" fill="none" stroke-width="0.5" stroke-opacity="0" stroke="rgb(0,0,0)"/>
+            </g>
+            <g id="26">
+                <path d="M 211.084,202.347 L 211.084,202.347" fill="none" stroke-width="0.5" stroke-opacity="0" stroke="rgb(0,0,0)"/>
+            </g>
+            <g id="27">
+                <path d="M 211.084,202.347 L 211.084,199.27" fill="none" stroke-width="0.5" stroke-opacity="0" stroke="rgb(0,0,0)"/>
+            </g>
+            <g id="28">
+                <path d="M 211.084,202.347 L 211.084,205.424" fill="none" stroke-width="0.5" stroke-opacity="0" stroke="rgb(0,0,0)"/>
+            </g>
+            <g id="29">
+                <path d="M 217.82,202.347 L 224.556,202.347" fill="none" stroke-width="0.5" stroke-opacity="0" stroke="rgb(0,0,0)"/>
+            </g>
+            <g id="30">
+                <path d="M 224.556,202.347 L 224.556,197.408" fill="none" stroke-width="0.5" stroke-opacity="0" stroke="rgb(0,0,0)"/>
+            </g>
+            <g id="31">
+                <path d="M 224.556,202.347 L 224.556,200.701" fill="none" stroke-width="0.5" stroke-opacity="0" stroke="rgb(0,0,0)"/>
+            </g>
+            <g id="32">
+                <path d="M 224.556,200.701 L 224.556,200.701" fill="none" stroke-width="0.5" stroke-opacity="0" stroke="rgb(0,0,0)"/>
+            </g>
+            <g id="33">
+                <path d="M 224.556,202.347 L 224.556,203.993" fill="none" stroke-width="0.5" stroke-opacity="0" stroke="rgb(0,0,0)"/>
+            </g>
+            <g id="34">
+                <path d="M 224.556,202.347 L 224.556,207.286" fill="none" stroke-width="0.5" stroke-opacity="0" stroke="rgb(0,0,0)"/>
+            </g>
+            <g id="35">
+                <path d="M 224.556,207.286 L 220.838,207.286" fill="none" stroke-width="0.5" stroke-opacity="0" stroke="rgb(0,0,0)"/>
+            </g>
+            <g id="36">
+                <path d="M 224.556,207.286 L 224.556,207.286" fill="none" stroke-width="0.5" stroke-opacity="0" stroke="rgb(0,0,0)"/>
+            </g>
+            <g id="37">
+                <path d="M 224.556,207.286 L 223.329,207.286" fill="none" stroke-width="0.5" stroke-opacity="0" stroke="rgb(0,0,0)"/>
+            </g>
+            <g id="38">
+                <path d="M 223.329,207.286 L 223.329,206.457" fill="none" stroke-width="0.5" stroke-opacity="0" stroke="rgb(0,0,0)"/>
+            </g>
+            <g id="39">
+                <path d="M 223.329,207.286 L 223.329,207.286" fill="none" stroke-width="0.5" stroke-opacity="0" stroke="rgb(0,0,0)"/>
+            </g>
+            <g id="40">
+                <path d="M 223.329,207.286 L 223.329,208.115" fill="none" stroke-width="0.5" stroke-opacity="0" stroke="rgb(0,0,0)"/>
+            </g>
+            <g id="41">
+                <path d="M 223.329,208.115 L 223.329,207.929" fill="none" stroke-width="0.5" stroke-opacity="0" stroke="rgb(0,0,0)"/>
+            </g>
+            <g id="42">
+                <path d="M 223.329,207.929 L 223.329,207.929" fill="none" stroke-width="0.5" stroke-opacity="0" stroke="rgb(0,0,0)"/>
+            </g>
+            <g id="43">
+                <path d="M 223.329,208.115 L 223.329,208.301" fill="none" stroke-width="0.5" stroke-opacity="0" stroke="rgb(0,0,0)"/>
+            </g>
+            <g id="44">
+                <path d="M 223.329,208.301 L 223.329,208.301" fill="none" stroke-width="0.5" stroke-opacity="0" stroke="rgb(0,0,0)"/>
+            </g>
+            <g id="45">
+                <path d="M 224.556,207.286 L 224.147,207.286" fill="none" stroke-width="0.5" stroke-opacity="0" stroke="rgb(0,0,0)"/>
+            </g>
+            <g id="46">
+                <path d="M 224.556,207.286 L 224.965,207.286" fill="none" stroke-width="0.5" stroke-opacity="0" stroke="rgb(0,0,0)"/>
+            </g>
+            <g id="47">
+                <path d="M 224.556,207.286 L 225.783,207.286" fill="none" stroke-width="0.5" stroke-opacity="0" stroke="rgb(0,0,0)"/>
+            </g>
+            <g id="48">
+                <path d="M 225.783,207.286 L 225.783,206.665" fill="none" stroke-width="0.5" stroke-opacity="0" stroke="rgb(0,0,0)"/>
+            </g>
+            <g id="49">
+                <path d="M 225.783,206.665 L 225.783,206.665" fill="none" stroke-width="0.5" stroke-opacity="0" stroke="rgb(0,0,0)"/>
+            </g>
+            <g id="50">
+                <path d="M 225.783,207.286 L 225.783,207.907" fill="none" stroke-width="0.5" stroke-opacity="0" stroke="rgb(0,0,0)"/>
+            </g>
+            <g id="51">
+                <path d="M 224.556,207.286 L 228.274,207.286" fill="none" stroke-width="0.5" stroke-opacity="0" stroke="rgb(0,0,0)"/>
+            </g>
+            <g id="52">
+                <path d="M 200,186.667 L 253.46,186.667" fill="none" stroke-width="0.5" stroke-opacity="0" stroke="rgb(0,0,0)"/>
+            </g>
+            <g id="53">
+                <path d="M 200,186.667 L 200,242.667" fill="none" stroke-width="0.5" stroke-opacity="0" stroke="rgb(0,0,0)"/>
+            </g>
+        </g>
+        <g id="nodes" desc="this is the group of nodes">
+            <g id="1" fill="rgb(4,39,104)" fill-opacity="1" transform="rotate(0,0,0)" stroke="rgb(255,255,255)" stroke-opacity="1" stroke-width="1">
+                <circle cx="0" cy="0" r="300"/>
+            </g>
+            <g id="2" fill="rgb(34,61,111)" fill-opacity="1" transform="rotate(0,-200,0)" stroke="rgb(255,255,255)" stroke-opacity="1" stroke-width="1">
+                <circle cx="-200" cy="0" r="88"/>
+            </g>
+            <g id="3" fill="rgb(34,61,111)" fill-opacity="1" transform="rotate(0,0,0)" stroke="rgb(255,255,255)" stroke-opacity="1" stroke-width="1">
+                <circle cx="0" cy="0" r="88"/>
+            </g>
+            <g id="4" fill="rgb(34,61,111)" fill-opacity="1" transform="rotate(0,200,0)" stroke="rgb(255,255,255)" stroke-opacity="1" stroke-width="1">
+                <circle cx="200" cy="0" r="88"/>
+            </g>
+            <g id="5" fill="rgb(64,83,118)" fill-opacity="1" transform="rotate(0,200,-186.667)" stroke="rgb(255,255,255)" stroke-opacity="1" stroke-width="1">
+                <circle cx="200" cy="-186.667" r="79.2"/>
+            </g>
+            <g id="6" fill="rgb(64,83,118)" fill-opacity="1" transform="rotate(0,200,-2.84217e-14)" stroke="rgb(255,255,255)" stroke-opacity="1" stroke-width="1">
+                <circle cx="200" cy="-2.84217e-14" r="79.2"/>
+            </g>
+            <g id="7" fill="rgb(64,83,118)" fill-opacity="1" transform="rotate(0,200,186.667)" stroke="rgb(255,255,255)" stroke-opacity="1" stroke-width="1">
+                <circle cx="200" cy="186.667" r="79.2"/>
+            </g>
+            <g id="8" fill="rgb(94,105,125)" fill-opacity="1" transform="rotate(0,200,130.667)" stroke="rgb(255,255,255)" stroke-opacity="1" stroke-width="1">
+                <circle cx="200" cy="130.667" r="71.28"/>
+            </g>
+            <g id="9" fill="rgb(94,105,125)" fill-opacity="1" transform="rotate(0,200,186.667)" stroke="rgb(255,255,255)" stroke-opacity="1" stroke-width="1">
+                <circle cx="200" cy="186.667" r="71.28"/>
+            </g>
+            <g id="10" fill="rgb(124,127,132)" fill-opacity="1" transform="rotate(0,146.54,186.667)" stroke="rgb(255,255,255)" stroke-opacity="1" stroke-width="1">
+                <circle cx="146.54" cy="186.667" r="14.9688"/>
+            </g>
+            <g id="11" fill="rgb(124,127,132)" fill-opacity="1" transform="rotate(0,182.18,186.667)" stroke="rgb(255,255,255)" stroke-opacity="1" stroke-width="1">
+                <circle cx="182.18" cy="186.667" r="14.9688"/>
+            </g>
+            <g id="12" fill="rgb(154,149,139)" fill-opacity="1" transform="rotate(0,182.18,174.907)" stroke="rgb(255,255,255)" stroke-opacity="1" stroke-width="1">
+                <circle cx="182.18" cy="174.907" r="13.4719"/>
+            </g>
+            <g id="13" fill="rgb(154,149,139)" fill-opacity="1" transform="rotate(0,182.18,198.427)" stroke="rgb(255,255,255)" stroke-opacity="1" stroke-width="1">
+                <circle cx="182.18" cy="198.427" r="13.4719"/>
+            </g>
+            <g id="14" fill="rgb(124,127,132)" fill-opacity="1" transform="rotate(0,217.82,186.667)" stroke="rgb(255,255,255)" stroke-opacity="1" stroke-width="1">
+                <circle cx="217.82" cy="186.667" r="14.9688"/>
+            </g>
+            <g id="15" fill="rgb(154,149,139)" fill-opacity="1" transform="rotate(0,217.82,170.987)" stroke="rgb(255,255,255)" stroke-opacity="1" stroke-width="1">
+                <circle cx="217.82" cy="170.987" r="13.4719"/>
+            </g>
+            <g id="16" fill="rgb(154,149,139)" fill-opacity="1" transform="rotate(0,217.82,186.667)" stroke="rgb(255,255,255)" stroke-opacity="1" stroke-width="1">
+                <circle cx="217.82" cy="186.667" r="13.4719"/>
+            </g>
+            <g id="17" fill="rgb(184,171,146)" fill-opacity="1" transform="rotate(0,217.82,186.667)" stroke="rgb(255,255,255)" stroke-opacity="1" stroke-width="1">
+                <circle cx="217.82" cy="186.667" r="12.933"/>
+            </g>
+            <g id="18" fill="rgb(214,193,153)" fill-opacity="1" transform="rotate(0,211.354,186.667)" stroke="rgb(255,255,255)" stroke-opacity="1" stroke-width="1">
+                <circle cx="211.354" cy="186.667" r="5.94918"/>
+            </g>
+            <g id="19" fill="rgb(244,215,160)" fill-opacity="1" transform="rotate(0,211.354,186.667)" stroke="rgb(255,255,255)" stroke-opacity="1" stroke-width="1">
+                <circle cx="211.354" cy="186.667" r="5.35428"/>
+            </g>
+            <g id="20" fill="rgb(4,39,104)" fill-opacity="1" transform="rotate(0,211.354,186.667)" stroke="rgb(255,255,255)" stroke-opacity="1" stroke-width="1">
+                <circle cx="211.354" cy="186.667" r="4.81887"/>
+            </g>
+            <g id="21" fill="rgb(34,61,111)" fill-opacity="1" transform="rotate(0,211.354,183.795)" stroke="rgb(255,255,255)" stroke-opacity="1" stroke-width="1">
+                <circle cx="211.354" cy="183.795" r="4.33698"/>
+            </g>
+            <g id="22" fill="rgb(64,83,118)" fill-opacity="1" transform="rotate(0,211.354,183.795)" stroke="rgb(255,255,255)" stroke-opacity="1" stroke-width="1">
+                <circle cx="211.354" cy="183.795" r="4.16351"/>
+            </g>
+            <g id="23" fill="rgb(34,61,111)" fill-opacity="1" transform="rotate(0,211.354,189.539)" stroke="rgb(255,255,255)" stroke-opacity="1" stroke-width="1">
+                <circle cx="211.354" cy="189.539" r="4.33698"/>
+            </g>
+            <g id="24" fill="rgb(214,193,153)" fill-opacity="1" transform="rotate(0,224.286,186.667)" stroke="rgb(255,255,255)" stroke-opacity="1" stroke-width="1">
+                <circle cx="224.286" cy="186.667" r="5.94918"/>
+            </g>
+            <g id="25" fill="rgb(154,149,139)" fill-opacity="1" transform="rotate(0,217.82,202.347)" stroke="rgb(255,255,255)" stroke-opacity="1" stroke-width="1">
+                <circle cx="217.82" cy="202.347" r="13.4719"/>
+            </g>
+            <g id="26" fill="rgb(184,171,146)" fill-opacity="1" transform="rotate(0,211.084,202.347)" stroke="rgb(255,255,255)" stroke-opacity="1" stroke-width="1">
+                <circle cx="211.084" cy="202.347" r="6.19707"/>
+            </g>
+            <g id="27" fill="rgb(214,193,153)" fill-opacity="1" transform="rotate(0,211.084,202.347)" stroke="rgb(255,255,255)" stroke-opacity="1" stroke-width="1">
+                <circle cx="211.084" cy="202.347" r="5.57734"/>
+            </g>
+            <g id="28" fill="rgb(244,215,160)" fill-opacity="1" transform="rotate(0,211.084,202.347)" stroke="rgb(255,255,255)" stroke-opacity="1" stroke-width="1">
+                <circle cx="211.084" cy="202.347" r="5.01962"/>
+            </g>
+            <g id="29" fill="rgb(4,39,104)" fill-opacity="1" transform="rotate(0,211.084,199.27)" stroke="rgb(255,255,255)" stroke-opacity="1" stroke-width="1">
+                <circle cx="211.084" cy="199.27" r="4.51764"/>
+            </g>
+            <g id="30" fill="rgb(4,39,104)" fill-opacity="1" transform="rotate(0,211.084,205.424)" stroke="rgb(255,255,255)" stroke-opacity="1" stroke-width="1">
+                <circle cx="211.084" cy="205.424" r="4.51764"/>
+            </g>
+            <g id="31" fill="rgb(184,171,146)" fill-opacity="1" transform="rotate(0,224.556,202.347)" stroke="rgb(255,255,255)" stroke-opacity="1" stroke-width="1">
+                <circle cx="224.556" cy="202.347" r="6.19707"/>
+            </g>
+            <g id="32" fill="rgb(214,193,153)" fill-opacity="1" transform="rotate(0,224.556,197.408)" stroke="rgb(255,255,255)" stroke-opacity="1" stroke-width="1">
+                <circle cx="224.556" cy="197.408" r="5.57734"/>
+            </g>
+            <g id="33" fill="rgb(214,193,153)" fill-opacity="1" transform="rotate(0,224.556,200.701)" stroke="rgb(255,255,255)" stroke-opacity="1" stroke-width="1">
+                <circle cx="224.556" cy="200.701" r="5.57734"/>
+            </g>
+            <g id="34" fill="rgb(244,215,160)" fill-opacity="1" transform="rotate(0,224.556,200.701)" stroke="rgb(255,255,255)" stroke-opacity="1" stroke-width="1">
+                <circle cx="224.556" cy="200.701" r="5.35426"/>
+            </g>
+            <g id="35" fill="rgb(214,193,153)" fill-opacity="1" transform="rotate(0,224.556,203.993)" stroke="rgb(255,255,255)" stroke-opacity="1" stroke-width="1">
+                <circle cx="224.556" cy="203.993" r="5.57734"/>
+            </g>
+            <g id="36" fill="rgb(214,193,153)" fill-opacity="1" transform="rotate(0,224.556,207.286)" stroke="rgb(255,255,255)" stroke-opacity="1" stroke-width="1">
+                <circle cx="224.556" cy="207.286" r="5.57734"/>
+            </g>
+            <g id="37" fill="rgb(244,215,160)" fill-opacity="1" transform="rotate(0,220.838,207.286)" stroke="rgb(255,255,255)" stroke-opacity="1" stroke-width="1">
+                <circle cx="220.838" cy="207.286" r="1.63602"/>
+            </g>
+            <g id="38" fill="rgb(244,215,160)" fill-opacity="1" transform="rotate(0,224.556,207.286)" stroke="rgb(255,255,255)" stroke-opacity="1" stroke-width="1">
+                <circle cx="224.556" cy="207.286" r="1.63602"/>
+            </g>
+            <g id="39" fill="rgb(4,39,104)" fill-opacity="1" transform="rotate(0,223.329,207.286)" stroke="rgb(255,255,255)" stroke-opacity="1" stroke-width="1">
+                <circle cx="223.329" cy="207.286" r="0.343565"/>
+            </g>
+            <g id="40" fill="rgb(34,61,111)" fill-opacity="1" transform="rotate(0,223.329,206.457)" stroke="rgb(255,255,255)" stroke-opacity="1" stroke-width="1">
+                <circle cx="223.329" cy="206.457" r="0.309209"/>
+            </g>
+            <g id="41" fill="rgb(34,61,111)" fill-opacity="1" transform="rotate(0,223.329,207.286)" stroke="rgb(255,255,255)" stroke-opacity="1" stroke-width="1">
+                <circle cx="223.329" cy="207.286" r="0.309209"/>
+            </g>
+            <g id="42" fill="rgb(34,61,111)" fill-opacity="1" transform="rotate(0,223.329,208.115)" stroke="rgb(255,255,255)" stroke-opacity="1" stroke-width="1">
+                <circle cx="223.329" cy="208.115" r="0.309209"/>
+            </g>
+            <g id="43" fill="rgb(64,83,118)" fill-opacity="1" transform="rotate(0,223.329,207.929)" stroke="rgb(255,255,255)" stroke-opacity="1" stroke-width="1">
+                <circle cx="223.329" cy="207.929" r="0.278288"/>
+            </g>
+            <g id="44" fill="rgb(94,105,125)" fill-opacity="1" transform="rotate(0,223.329,207.929)" stroke="rgb(255,255,255)" stroke-opacity="1" stroke-width="1">
+                <circle cx="223.329" cy="207.929" r="0.267156"/>
+            </g>
+            <g id="45" fill="rgb(64,83,118)" fill-opacity="1" transform="rotate(0,223.329,208.301)" stroke="rgb(255,255,255)" stroke-opacity="1" stroke-width="1">
+                <circle cx="223.329" cy="208.301" r="0.278288"/>
+            </g>
+            <g id="46" fill="rgb(94,105,125)" fill-opacity="1" transform="rotate(0,223.329,208.301)" stroke="rgb(255,255,255)" stroke-opacity="1" stroke-width="1">
+                <circle cx="223.329" cy="208.301" r="0.267156"/>
+            </g>
+            <g id="47" fill="rgb(4,39,104)" fill-opacity="1" transform="rotate(0,224.147,207.286)" stroke="rgb(255,255,255)" stroke-opacity="1" stroke-width="1">
+                <circle cx="224.147" cy="207.286" r="0.343565"/>
+            </g>
+            <g id="48" fill="rgb(4,39,104)" fill-opacity="1" transform="rotate(0,224.965,207.286)" stroke="rgb(255,255,255)" stroke-opacity="1" stroke-width="1">
+                <circle cx="224.965" cy="207.286" r="0.343565"/>
+            </g>
+            <g id="49" fill="rgb(4,39,104)" fill-opacity="1" transform="rotate(0,225.783,207.286)" stroke="rgb(255,255,255)" stroke-opacity="1" stroke-width="1">
+                <circle cx="225.783" cy="207.286" r="0.343565"/>
+            </g>
+            <g id="50" fill="rgb(34,61,111)" fill-opacity="1" transform="rotate(0,225.783,206.665)" stroke="rgb(255,255,255)" stroke-opacity="1" stroke-width="1">
+                <circle cx="225.783" cy="206.665" r="0.309209"/>
+            </g>
+            <g id="51" fill="rgb(64,83,118)" fill-opacity="1" transform="rotate(0,225.783,206.665)" stroke="rgb(255,255,255)" stroke-opacity="1" stroke-width="1">
+                <circle cx="225.783" cy="206.665" r="0.278288"/>
+            </g>
+            <g id="52" fill="rgb(34,61,111)" fill-opacity="1" transform="rotate(0,225.783,207.907)" stroke="rgb(255,255,255)" stroke-opacity="1" stroke-width="1">
+                <circle cx="225.783" cy="207.907" r="0.309209"/>
+            </g>
+            <g id="53" fill="rgb(244,215,160)" fill-opacity="1" transform="rotate(0,228.274,207.286)" stroke="rgb(255,255,255)" stroke-opacity="1" stroke-width="1">
+                <circle cx="228.274" cy="207.286" r="1.63602"/>
+            </g>
+            <g id="54" fill="rgb(124,127,132)" fill-opacity="1" transform="rotate(0,253.46,186.667)" stroke="rgb(255,255,255)" stroke-opacity="1" stroke-width="1">
+                <circle cx="253.46" cy="186.667" r="14.9688"/>
+            </g>
+            <g id="55" fill="rgb(94,105,125)" fill-opacity="1" transform="rotate(0,200,242.667)" stroke="rgb(255,255,255)" stroke-opacity="1" stroke-width="1">
+                <circle cx="200" cy="242.667" r="71.28"/>
+            </g>
+        </g>
+    </g>
+</svg>

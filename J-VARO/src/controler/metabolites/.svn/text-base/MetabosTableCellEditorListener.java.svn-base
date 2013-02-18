@@ -1,0 +1,43 @@
+package controler.metabolites;
+
+import javax.swing.JTable;
+import javax.swing.event.CellEditorListener;
+import javax.swing.event.ChangeEvent;
+
+import controler.MainControler;
+
+import view.MetabosPanel;
+
+//clear the selection when JTables are edited
+public class MetabosTableCellEditorListener implements CellEditorListener {
+
+	private MetabosPanel panel;
+	private JTable table;
+	private MainControler controler;
+
+	public MetabosTableCellEditorListener(MainControler controler,
+			MetabosPanel metabosPanel) {
+		this.panel = metabosPanel;
+		this.controler = controler;
+		this.table = metabosPanel.getTable();
+	}
+
+	public void editingCanceled(ChangeEvent arg0) {
+
+	}
+
+	public void editingStopped(ChangeEvent e) {
+
+		String metabName = (String) table.getValueAt(table.getSelectedRow(), 0);
+
+		controler.setMetaboInternal(
+				metabName,
+				(Boolean) table.getValueAt(table.getSelectedRow(),
+						table.getSelectedColumn()));
+
+		table.clearSelection();
+		panel.setButtons();
+
+	}
+
+}

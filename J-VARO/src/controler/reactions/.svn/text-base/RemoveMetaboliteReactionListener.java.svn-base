@@ -1,0 +1,28 @@
+package controler.reactions;
+
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+
+import view.popup.ReactionFrame;
+
+public class RemoveMetaboliteReactionListener implements ActionListener {
+
+	private ReactionFrame frame;
+	private String type;
+
+	public RemoveMetaboliteReactionListener(ReactionFrame frame, String type) {
+		this.frame = frame;
+		this.type = type;
+	}
+
+	public void actionPerformed(ActionEvent arg0) {
+		if (type.equals("reactant")) {
+			frame.delReactant();
+		}
+		if (type.equals("product")) {
+			frame.delProduct();
+		}
+
+	}
+
+}

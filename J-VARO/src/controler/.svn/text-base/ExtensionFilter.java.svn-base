@@ -1,0 +1,38 @@
+package controler;
+
+import java.io.File;
+import java.util.List;
+
+import javax.swing.filechooser.FileFilter;
+
+
+//test the extension of files
+public class ExtensionFilter extends FileFilter {
+
+	private List<String> extension;
+	private String description;
+
+	public ExtensionFilter(List<String> extension, String description) {
+		this.extension = extension;
+		this.description = description;
+
+	}
+
+	public boolean accept(File f) {
+		if (f.isDirectory()) {
+			return true;
+		}
+		String nomFichier = f.getName().toLowerCase();
+
+		for (String ext : extension) {
+			if (nomFichier.endsWith(ext))
+				return true;
+		}
+		return false;
+	}
+
+	public String getDescription() {
+		return description;
+	}
+
+}
